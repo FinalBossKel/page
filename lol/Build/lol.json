@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "lol.data.unityweb",
+"asmCodeUrl": "lol.asm.code.unityweb",
+"asmMemoryUrl": "lol.asm.memory.unityweb",
+"asmFrameworkUrl": "lol.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
