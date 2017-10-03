@@ -6,11 +6,25 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Legends of Learning Template</title>
     <link rel="stylesheet" href="TemplateData/style.css">
-    <script src="Build/UnityLoader.js"></script>
-    <script> var gameInstance = UnityLoader.instantiate("gameContainer", "Build/lol.json"); </script>
-    <script src="harness.js"></script> <!--Change this url to the external harness.js url-->
+    <script src="TemplateData/UnityProgress.js"></script>
   </head>
   <body>
-    <div id="gameContainer" style="width: 1024px; height: 768px; margin: auto"></div>
+    <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="768px" width="1024px"></canvas>
+    <script type='text/javascript'>
+  var Module = {
+    TOTAL_MEMORY: 268435456,
+    errorhandler: null,			// arguments: err, url, line. This function must return 'true' if the error is handled, otherwise 'false'
+    compatibilitycheck: null,
+    backgroundColor: "#231F20",
+    splashStyle: "Light",
+    dataUrl: "Release/lol.data",
+    codeUrl: "Release/lol.js",
+    asmUrl: "Release/lol.asm.js",
+    memUrl: "Release/lol.mem",
+  };
+</script>
+<script src="Release/UnityLoader.js"></script>
+
+    <script src="harness.js"></script>
   </body>
 </html>
