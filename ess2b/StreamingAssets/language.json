@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "maxChars": {
+      "loading":20,
+      "start":20
+    }
+  },
+  "en": {
+    "loading":"Loading",
+    "start":"Start"
+  },
+  "es": {
+    "loading":"¡Bienvenido",
+    "start": "¡Bienvenido!"
+  },
+  "zh": {
+    "loading":"欢迎！",
+    "start": "欢迎！"
+  },
+  "jp": {
+    "loading":"ようこそ",
+    "start": "ようこそ!"
+  },
+  "ru": {
+    "loading":"Добро",
+    "start": "Добро!"
+  }
+}
