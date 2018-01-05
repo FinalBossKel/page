@@ -8,9 +8,16 @@
       "intro1_3":150,
       "intro1_4":150,
       "intro1_5":150,
-      "intro1_6":150,
-      "intro1_7":150,
-      "intro1_8":150
+      "intro2_1":150,
+      "intro2_2":150,
+      "intro2_3":150,
+      "intro2_4":150,
+      "intro2_5":150,
+      "intro2_6":150,
+      "intro2_7":150,
+      "intro2_8":150,
+      "intro2_9":150,
+      "intro2_10":150
     }
   },
   "en": {
@@ -40,9 +47,16 @@
     "intro_3":"",
     "intro_4":"",
     "intro_5":"",
-    "intro_2_1":"",
-    "intro_7":"",
-    "intro_8":""
+    "intro2_1":"",
+    "intro2_2":"",
+    "intro2_3":"",
+    "intro2_4":"",
+    "intro2_5":"",
+    "intro2_6":"",
+    "intro2_7":"",
+    "intro2_8":"",
+    "intro2_9":"",
+    "intro2_10":""
   },
   "zh": {
     "loading":"",
@@ -52,8 +66,16 @@
     "intro_3":"",
     "intro_4":"",
     "intro_5":"",
-    "intro_6":"",
-    "intro_7":""
+    "intro2_1":"",
+    "intro2_2":"",
+    "intro2_3":"",
+    "intro2_4":"",
+    "intro2_5":"",
+    "intro2_6":"",
+    "intro2_7":"",
+    "intro2_8":"",
+    "intro2_9":"",
+    "intro2_10":""
   },
   "jp": {
     "loading":"",
@@ -63,8 +85,16 @@
     "intro_3":"",
     "intro_4":"",
     "intro_5":"",
-    "intro_6":"",
-    "intro_7":""
+    "intro2_1":"",
+    "intro2_2":"",
+    "intro2_3":"",
+    "intro2_4":"",
+    "intro2_5":"",
+    "intro2_6":"",
+    "intro2_7":"",
+    "intro2_8":"",
+    "intro2_9":"",
+    "intro2_10":""
   },
   "ru": {
     "loading":"",
@@ -74,7 +104,15 @@
     "intro_3":"",
     "intro_4":"",
     "intro_5":"",
-    "intro_6":"",
-    "intro_7":""
+    "intro2_1":"",
+    "intro2_2":"",
+    "intro2_3":"",
+    "intro2_4":"",
+    "intro2_5":"",
+    "intro2_6":"",
+    "intro2_7":"",
+    "intro2_8":"",
+    "intro2_9":"",
+    "intro2_10":""
   }
 }
