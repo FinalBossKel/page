@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ess2e2",
+"dataUrl": "ess2e.data.unityweb",
+"asmCodeUrl": "ess2e.asm.code.unityweb",
+"asmMemoryUrl": "ess2e.asm.memory.unityweb",
+"asmFrameworkUrl": "ess2e.asm.framework.unityweb",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
