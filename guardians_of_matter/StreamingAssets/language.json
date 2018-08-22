@@ -46,13 +46,23 @@
     "temp_room_q2_speak":"At what temperature does ice melt? A.Negative 32 degrees celcius. B.Above zero degrees celcius. C. Negative 10 degrees celcius",
     "temp_room_q2":"At what temperature does ice melt?",
     "temp_room_q2_wrong":"Please try again. What is frozen water's melting point?",
-    "temp_room_q3_speak":"At what temperature does water boil? A.100 degrees celcius. B. 0 degrees celcius. C. 50 degrees celcius",
+    "temp_room_q3_speak":"At what temperature does water boil? A. 100 degrees celcius. B. 0 degrees celcius. C. 50 degrees celcius",
     "temp_room_q3":"At what temperature does water boil?",
     "temp_room_q3_wrong":"Please try again. What is water's boiling point?",
-    
-
-
-
+    "temp_room_guardian1":"You're at the end of your journey.",
+    "temp_room_guardian2":"I require an offering of water in the form of solid, liquid and gas.",
+    "temp_room_guardian3":"Here is a portable freezer and a beaker of water. Can you use these to create ice?",
+    "temp_room_guardian4":"Temperature is how hot or cold something is. A thermometer is used to measure temperature.",
+    "temp_room_guardian5":"Use this on the freezer. Remove the water once it cools beyond its freezing point.",
+    "temp_room_guardian6":"You removed the water too early. Keep it in the freezer until it reaches its freezing point.",
+    "temp_room_guardian7":"The water in the beaker solidified into ice. You passed the first test!",
+    "temp_room_guardian8":"Use heat to turn the frozen water back to liquid.",
+    "temp_room_guardian9":"Look! The metal in the pan easily got hot but the handle didn't.",
+    "temp_room_guardian10":"Thermal conductivity is how easily matter transmits heat. Different materials respond differently to heat.",
+    "temp_room_guardian11":"Use the thermometer to measure the temperature in the pan and watch what happens to the ice.",
+    "temp_room_guardian12":"We've reached the boiling point. This is when water gets hot enough to turn into gas.",
+    "temp_room_guardian13":"You have beaten the trials and shown great knowledge about the properties of matter.",
+    "temp_room_guardian14":"Farewell young scholar. Good luck on your next adventure!"
     
   },
   "es": {
