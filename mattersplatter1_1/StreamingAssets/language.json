@@ -1,0 +1,54 @@
+{
+  "_meta": {
+    "maxChars": {
+    "title":200
+    }
+  },
+  "en": {
+    "title":"Matter Splatter",
+    "solid":"solid",
+    "liquid":"liquid",
+    "gas":"gas",
+    "liquid_lesson1":"Liquids take the shape of the container they’re in but maintain their volume!",
+    "liquid_lesson2":"Liquid is one of the four states of matter!",
+    "liquid_lesson3":"All matter is made of atoms and/or molecules (particles). Let’s take a closer look using the simulator.",
+    "liquid_lesson4":"A substance in liquid form is denser than a substance in gas form.",
+    "liquid_lesson5":"Atoms and molecules that make up a liquid stay in contact with each other but move relative to one another. This is why liquids take the shape of their container but still maintain their volume!",
+    "solid_lesson1":"Water can also exist as solid in the form of ice!",
+    "solid_lesson2":"Solid is one of the four states of matter. It has the ability to maintain its shape and volume.",
+    "solid_lesson3":"When a substance changes from liquid or gas to solid, its atoms move closer together.",
+    "solid_lesson4":"Most substances in solid form are denser than they are on liquid form. (The major exception is water.)",
+    "solid_lesson4_a":"Magma (liquid) or molten rock is less dense than the surrounding rocks (solid) so it moves up.",
+    "solid_lesson4_b":"The ice cube (solid) is less dense than the water (liquid) so it moves upward and floats.",
+    "solid_lesson5":"Atoms and molecules that make up a solid stay in contact with each other; they vibrate in place, but do not move relative to each other. This is why solids maintain their shape and volume!",
+    "gas_lesson1":"Water can also exist in the form of gas! If you apply enough heat, water turns into steam.",
+    "gas_lesson2":"Gas is one of the four states of matter. It has the ability to expand and fill the available space, changing both shape and volume.",
+    "gas_lesson3":"When a substance changes from solid or liquid to gas, its atoms and molecules move farther apart.",
+    "gas_lesson4":"A substance in gas form is less dense than a substance in liquid form.",
+    "gas_lesson5":"Atoms and molecules in a gas move quickly relative to each other; although they collide, they are on average far apart from each other. This is why gases flow and fill the space available.",
+    "plasma_lesson1":"Plasma is one of the four states of matter!",
+    "plasma_lesson2":"Over 99% of the matter in the visible universe is believed to be plasma.",
+    "plasma_lesson3":"Artificial uses of plasma include fluorescent lightbulbs, neon signs, plasma displays for televisions as well as plasma lamps and globes which are popular toys or decorations.",
+    "plasma_lesson4":"Atoms and molecules are in constant motion.",
+    "plasma_lesson5":"State is an extrinsic property of matter that depends on conditions like temperature and pressure; it is not an intrinsic property that is the same for all samples of the substance.",
+    "not_enough_stars1":"You don't have enough stars to skip this level. Play older levels to earn more stars!",
+    "game_over":"You have reached the end of your adventure! See you on the next lesson!",
+    "level_pack_unlocked":"Level pack unlocked!",
+    "try_again":"Ran out of water! Let's try again.",
+    "skip_1":"Do you want to skip this level? First skip is free but later it'll cost stars!",
+    "skip_2":"You already finished this level. Skipping is free!",
+    "skip":"Skip this level for 3 stars!",
+    "skip_tut":"Looks like you're having a hard time. You can use stars to skip this level.",
+    "simul_start":"Apply or remove heat to trigger state changes. Observe how the water molecules move.",
+    "simul_end":"You can access this simulator anytime through the menu.",
+    "level_pack_locked":"This level pack is still locked. Keep playing to unlock this level pack."
+  },
+  "es": {
+  },
+  "zh": {
+  },
+  "jp": {
+  },
+  "ru": {
+  }
+}
