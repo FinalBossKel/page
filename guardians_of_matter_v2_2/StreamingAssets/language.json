@@ -1,0 +1,76 @@
+{
+  "_meta": {
+    "maxChars": {
+    "title":200
+    }
+  },
+  "en": {
+    "title":"Guardians of Matter with the Super Study Buddies",
+    "mass_room_diagram1":"Everything in the universe is made up of matter.",
+    "mass_room_diagram2":"Matter has different properties like hardness, color, texture, mass and more.",
+    "mass_room_diagram3":"We can use scientific tools to measure these properties.",
+    "mass_room_guardian1":"Welcome, young scholar!",
+    "mass_room_guardian2":"I am one of the Guardians of Matter.",
+    "mass_room_guardian3":"You must pass our trials to make it back to the outside world.",
+    "mass_room_guardian4":"Mass is the amount of matter an object has. It can be measured using a scale.",
+    "mass_room_guardian5":"Feed me objects that combine to have the total mass I'm looking for.",
+    "mass_room_guardian6":"Press my nose when you think you have the correct answer.",
+    "mass_room_guardian7":"Well done. You successfully proved you know how to measure mass using a scale.",
+    "mass_room_guardian8":"Measurement is an observation of a property and comparing it with a standard unit - in this case grams.",
+    "mass_room_guardian9":"You may now proceed to the next guardian. Good luck!",
+    "water_room_diagram_speak":"The water displacement method can be used to find an object's volume. Water with stone: 35 millileters. Water without stone: 30 milliliters. Volume of stone: 5milliliters.",
+    "water_room_diagram1":"The water displacement method can be used to find an object's volume.",
+    "water_room_diagram2":"Water with stone",
+    "water_room_diagram3":"Water without stone",
+    "water_room_diagram4":"Volume of stone",
+    "water_room_guardian1":"*YAWN* I sense an adventurer with a thirst for knowledge!",
+    "water_room_guardian2":"I see you've figured out how to use the water tank to measure volume.",
+    "water_room_guardian3":"The water and stone can't occupy the same space, so the stone pushes the water away to take up room in the tank.",
+    "water_room_guardian4":"Volume is the amount of space an object occupies.",
+    "water_room_guardian5":"Now let's test your knowledge on buoyancy.",
+    "water_room_guardian6":"Place only items that float in the tank then press my nose when you think you have them all.",
+    "water_room_guardian7":"I'm looking for only items that float. All of them. Press my nose when you're done.",
+    "water_room_guardian8":"Good job! Now we're looking for only items that sink.",
+    "water_room_guardian9":"I'm looking for only items that sink. All of them. Press my nose when you're done.",
+    "water_room_guardian10":"Good job! Buoyancy is whether an object sinks or floats. ",
+    "water_room_guardian11":"Solubility is how easily something dissolves in another material. Try putting the jars in the water.",
+    "water_room_guardian12":"Salt and sugar dissolve in water. You can barely see them but they're still there.",
+    "water_room_guardian13":"They've just become really, really tiny. The properties of a material remain the same even when they shrink.",
+    "water_room_guardian14":"Sand did not dissolve as it's insoluble in water.",
+    "water_room_guardian15":"All objects are made up of one or more materials and they all have different properties.",
+    "water_room_guardian16":"These properties can be used to identify substances.",
+    "water_room_guardian17":"You are now ready to move on to the next guardian!",
+    "temp_room_q1_speak":"At what temperature does water start freezing? A.32 degrees celsius. B. 100 degrees celsius. C. 0 degrees celsius",
+    "temp_room_q1":"At what temperature does water start freezing?",
+    "temp_room_q1_wrong":"Please try again. What is water's freezing point?",
+    "temp_room_q2_speak":"At what temperature does ice melt? A.Negative 32 degrees celsius. B.Above zero degrees celsius. C. Negative 10 degrees celsius",
+    "temp_room_q2":"At what temperature does ice melt?",
+    "temp_room_q2_wrong":"Please try again. What is frozen water's melting point?",
+    "temp_room_q3_speak":"At what temperature does water boil? A. 100 degrees celsius. B. 0 degrees celsius. C. 50 degrees celsius",
+    "temp_room_q3":"At what temperature does water boil?",
+    "temp_room_q3_wrong":"Please try again. What is water's boiling point?",
+    "temp_room_guardian1":"You're at the end of your journey.",
+    "temp_room_guardian2":"I require an offering of water in the form of solid, liquid and gas.",
+    "temp_room_guardian3":"Here is a portable freezer and a beaker of water. Can you use these to create ice?",
+    "temp_room_guardian4":"Temperature is how hot or cold something is. A thermometer is used to measure temperature.",
+    "temp_room_guardian5":"Use this on the freezer. Remove the water once it cools beyond its freezing point.",
+    "temp_room_guardian6":"You removed the water too early. Keep it in the freezer until it reaches its freezing point.",
+    "temp_room_guardian7":"The water in the beaker solidified into ice. You passed the first test!",
+    "temp_room_guardian8":"Use heat to turn the frozen water back to liquid.",
+    "temp_room_guardian9":"Look! The metal in the pan easily got hot but the handle didn't.",
+    "temp_room_guardian10":"Thermal conductivity is how easily matter transmits heat. Different materials respond differently to heat.",
+    "temp_room_guardian11":"Use the thermometer to measure the temperature in the pan and watch what happens to the ice.",
+    "temp_room_guardian12":"We've reached the boiling point. This is when water gets hot enough to turn into gas.",
+    "temp_room_guardian13":"You have beaten the trials and shown great knowledge about the properties of matter.",
+    "temp_room_guardian14":"Farewell young scholar. Good luck on your next adventure!"
+    
+  },
+  "es": {
+  },
+  "zh": {
+  },
+  "jp": {
+  },
+  "ru": {
+  }
+}
