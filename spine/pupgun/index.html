@@ -1,0 +1,19 @@
+<html>
+<script src="http://esotericsoftware.com/files/spine-player/3.7/spine-player.js">
+</script>
+<link rel="stylesheet" href="http://esotericsoftware.com/files/spine-player/3.7/spine-player.css">
+
+
+
+<body>
+   <div id="player-container" style="width: 640px; height: 480px;"></div>
+</body>
+
+<script>
+   new spine.SpinePlayer("player-container", {
+         jsonUrl: "pup/pup.json",
+         atlasUrl: "pup/pup.atlas",
+   });
+ </script>
+
+</html>
