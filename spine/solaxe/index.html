@@ -1,0 +1,19 @@
+<html>
+<script src="spine-player.js">
+</script>
+<link rel="stylesheet" href="spine-player.css">
+
+
+
+<body>
+   <div id="player-container" style="width: 640px; height: 480px;"></div>
+</body>
+
+<script>
+   new spine.SpinePlayer("player-container", {
+         jsonUrl: "resources/SolAxe.json",
+         atlasUrl: "resources/SolAxe.atlas",
+   });
+ </script>
+
+</html>
