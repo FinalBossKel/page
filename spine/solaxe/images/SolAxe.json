@@ -1,14 +1,9 @@
 {
-"skeleton": { "hash": "tNJE9GkFt6aVWC6OWkcE3raZo8U", "spine": "3.7.94", "width": 282.71, "height": 293.7, "images": "./SolAxe/", "audio": "" },
+"skeleton": { "hash": "VCypHDmGPIvdYSJzvouLoPKta5c", "spine": "3.7.94", "width": 282.71, "height": 293.7, "images": "./SolAxe/", "audio": "" },
 "bones": [
 	{ "name": "root" },
-	{ "name": "effects", "parent": "root", "color": "98009bff" },
 	{ "name": "pelvis", "parent": "root", "length": 76.92, "x": 0.74, "y": 101.34 },
 	{ "name": "shadow", "parent": "root", "scaleX": 0.65, "scaleY": 0.65, "color": "67069cff" },
-	{ "name": "dashAttack", "parent": "effects", "x": 73.57, "y": 177.62, "color": "98009bff" },
-	{ "name": "downSlash", "parent": "effects", "x": 158.41, "y": 171.31, "color": "98009bff" },
-	{ "name": "sideSlash", "parent": "effects", "x": 63.6, "y": 92.11, "color": "98009bff" },
-	{ "name": "stab", "parent": "effects", "x": 120.79, "y": 94.91, "color": "98009bff" },
 	{ "name": "thigh_far", "parent": "pelvis", "length": 36.04, "rotation": -90.45, "x": 9.1, "y": 4.75 },
 	{ "name": "thigh_near", "parent": "pelvis", "length": 36.43, "rotation": -90, "x": -10.2, "y": 3.96 },
 	{
@@ -94,16 +89,7 @@
 	{ "name": "fingers_near", "bone": "hand_near" },
 	{ "name": "braceback_near", "bone": "forearm_near", "attachment": "rBraceBack" },
 	{ "name": "forearm_near", "bone": "forearm_near", "attachment": "rArm2" },
-	{ "name": "bracefront_near", "bone": "forearm_near", "attachment": "rBraceFront" },
-	{ "name": "_guide", "bone": "stab" },
-	{ "name": "stab", "bone": "stab", "blend": "additive" },
-	{ "name": "_guide1", "bone": "downSlash" },
-	{ "name": "downSlash", "bone": "downSlash", "blend": "additive" },
-	{ "name": "_guide2", "bone": "sideSlash" },
-	{ "name": "sideSlash", "bone": "sideSlash", "blend": "additive" },
-	{ "name": "_guide3", "bone": "dashAttack" },
-	{ "name": "dashAttack", "bone": "dashAttack", "blend": "additive" },
-	{ "name": "shockwave", "bone": "dashAttack", "blend": "additive" }
+	{ "name": "bracefront_near", "bone": "forearm_near", "attachment": "rBraceFront" }
 ],
 "skins": {
 	"default": {
@@ -204,81 +190,6 @@
 				"rotation": 90.89,
 				"width": 163,
 				"height": 75
-			}
-		},
-		"dashAttack": {
-			"slash1": {
-				"type": "mesh",
-				"uvs": [ 1, 1, 0, 1, 0.14507, 0.04128, 1, 0 ],
-				"triangles": [ 2, 3, 0, 1, 2, 0 ],
-				"vertices": [ -133.21, 105.15, -113.04, 85.81, -176.91, 25.1, -196.77, 38.91 ],
-				"hull": 4,
-				"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
-				"width": 28,
-				"height": 92
-			},
-			"slash2": {
-				"type": "mesh",
-				"uvs": [ 0.98113, 0.49817, 1, 1, 0.06259, 1, 0, 0.54462, 0.49875, 0.50609, 0.31875, 0.03675, 0.52938, 0 ],
-				"triangles": [ 4, 5, 6, 4, 6, 0, 2, 3, 4, 4, 0, 1, 2, 4, 1 ],
-				"vertices": [ -221.57, -32.43, -189.61, 57.93, -98.4, 23.55, -122.99, -60.12, -174.11, -48.71, -188.21, -139.17, -211.17, -138.02 ],
-				"hull": 7,
-				"edges": [ 2, 4, 10, 12, 2, 0, 0, 12, 8, 10, 4, 6, 6, 8 ],
-				"width": 104,
-				"height": 191
-			},
-			"slash3": {
-				"type": "mesh",
-				"uvs": [ 0.88014, 0.31719, 1, 0.67218, 0.7584, 1, 0, 0.91865, 0, 0.78469, 0.4345, 0.72567, 0.33461, 0.54312, 0.63427, 0.38715, 0.3779, 0.089, 0.54386, 0 ],
-				"triangles": [ 7, 9, 0, 8, 9, 7, 5, 6, 7, 3, 4, 5, 7, 1, 5, 1, 7, 0, 2, 5, 1, 3, 5, 2 ],
-				"vertices": [ 11.17, -235.27, -73.68, -243.18, -142.77, -190.29, -104.1, -63.58, -73.27, -68.32, -71.12, -144.66, -26.48, -134.06, 1.54, -190.78, 76.89, -157.54, 93.01, -189.05 ],
-				"hull": 10,
-				"edges": [ 4, 6, 16, 18, 0, 18, 0, 2, 2, 4, 14, 16, 12, 14, 10, 12, 6, 8, 8, 10 ],
-				"width": 173,
-				"height": 233
-			},
-			"slash4": {
-				"type": "mesh",
-				"path": "slash3",
-				"uvs": [ 0.69815, 0.14553, 0.88014, 0.31719, 0.93702, 0.48565, 1, 0.67218, 0.88265, 0.83142, 0.7584, 1, 0, 0.91865, 0, 0.85588, 0, 0.78469, 0.4345, 0.72567, 0.38484, 0.63491, 0.33461, 0.54312, 0.63427, 0.38715, 0.50856, 0.24096, 0.3779, 0.089, 0.54386, 0 ],
-				"triangles": [ 13, 14, 15, 13, 15, 0, 12, 13, 0, 12, 0, 1, 10, 11, 12, 9, 10, 12, 2, 12, 1, 4, 2, 3, 4, 12, 2, 9, 12, 4, 7, 8, 9, 6, 7, 9, 5, 9, 4, 6, 9, 5 ],
-				"vertices": [ 106.36, 142.55, 152.53, 121.28, 179.11, 90.85, 208.55, 57.14, 207.35, 14.92, 206.07, -29.78, 80.77, -72.53, 74.13, -59.52, 66.59, -44.77, 127.2, 1.61, 109.95, 16.52, 92.51, 31.59, 122.1, 87.46, 87.29, 107.88, 51.1, 129.1, 67.21, 160.59 ],
-				"hull": 16,
-				"edges": [ 10, 12, 28, 30, 22, 24, 16, 18, 24, 26, 26, 28, 2, 0, 0, 30, 18, 20, 20, 22, 2, 4, 4, 6, 6, 8, 8, 10, 12, 14, 14, 16 ],
-				"width": 173,
-				"height": 233
-			}
-		},
-		"downSlash": {
-			"slash1": {
-				"type": "mesh",
-				"uvs": [ 1, 1, 0, 1, 0.14507, 0.04128, 1, 0 ],
-				"triangles": [ 2, 3, 0, 1, 2, 0 ],
-				"vertices": [ -11.89, 112.95, -29.18, 90.93, -96.05, 148.59, -84.25, 169.76 ],
-				"hull": 4,
-				"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
-				"width": 28,
-				"height": 92
-			},
-			"slash2": {
-				"type": "mesh",
-				"uvs": [ 0.98113, 0.49817, 1, 1, 0.06259, 1, 0, 0.54462, 0.49875, 0.50609, 0.31875, 0.03675, 0.52938, 0 ],
-				"triangles": [ 4, 5, 6, 4, 6, 0, 2, 3, 4, 4, 0, 1, 2, 4, 1 ],
-				"vertices": [ 48.77, 56.81, 85.92, -31.56, -4.7, -67.5, -42.82, 10.95, 2.69, 36.91, -47.76, 113.34, -29.98, 127.94 ],
-				"hull": 7,
-				"edges": [ 2, 4, 10, 12, 2, 0, 0, 12, 8, 10, 4, 6, 6, 8 ],
-				"width": 104,
-				"height": 191
-			},
-			"slash3": {
-				"type": "mesh",
-				"uvs": [ 0.88014, 0.31719, 1, 0.67218, 0.7584, 1, 0, 0.91865, 0, 0.78469, 0.4345, 0.72567, 0.33461, 0.54312, 0.63427, 0.38715, 0.3779, 0.089, 0.54386, 0 ],
-				"triangles": [ 7, 9, 0, 8, 9, 7, 5, 6, 7, 3, 4, 5, 7, 1, 5, 1, 7, 0, 2, 5, 1, 3, 5, 2 ],
-				"vertices": [ 76.87, 1.08, 97.6, -81.63, 55.81, -158.01, -75.4, -139.06, -75.4, -107.85, -0.23, -94.1, -17.51, -51.56, 34.33, -15.22, -10.02, 54.25, 18.69, 74.99 ],
-				"hull": 10,
-				"edges": [ 4, 6, 16, 18, 0, 18, 0, 2, 2, 4, 14, 16, 12, 14, 10, 12, 6, 8, 8, 10 ],
-				"width": 173,
-				"height": 233
 			}
 		},
 		"eyes": {
@@ -637,18 +548,6 @@
 				"height": 265
 			}
 		},
-		"shockwave": {
-			"shockwave": {
-				"type": "mesh",
-				"uvs": [ 1, 1, 0, 1, 0.28617, 0.58282, 0.68438, 0 ],
-				"triangles": [ 2, 3, 0, 1, 2, 0 ],
-				"vertices": [ 307.79, -190.96, 211.79, -190.96, 239.27, -165.51, 277.49, -129.96 ],
-				"hull": 4,
-				"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
-				"width": 96,
-				"height": 61
-			}
-		},
 		"shoulder_far": {
 			"lShoulder": {
 				"x": 4.27,
@@ -669,61 +568,6 @@
 				"rotation": -174.16,
 				"width": 174,
 				"height": 152
-			}
-		},
-		"sideSlash": {
-			"slash1": {
-				"type": "mesh",
-				"uvs": [ 1, 1, 0, 1, 0.14507, 0.04128, 1, 0 ],
-				"triangles": [ 2, 3, 0, 1, 2, 0 ],
-				"vertices": [ -175.34, -44.38, -192.63, -66.4, -259.49, -8.74, -247.7, 12.43 ],
-				"hull": 4,
-				"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
-				"width": 28,
-				"height": 92
-			},
-			"slash2": {
-				"type": "mesh",
-				"uvs": [ 0.98113, 0.49817, 1, 1, 0.06259, 1, 0, 0.54462, 0.49875, 0.50609, 0.31875, 0.03675, 0.52938, 0 ],
-				"triangles": [ 4, 5, 6, 4, 6, 0, 2, 3, 4, 4, 0, 1, 2, 4, 1 ],
-				"vertices": [ 207.18, 91.75, 244.34, 3.38, 153.71, -32.56, 115.6, 45.89, 161.1, 71.85, 110.65, 148.28, 128.43, 162.88 ],
-				"hull": 7,
-				"edges": [ 2, 4, 10, 12, 2, 0, 0, 12, 8, 10, 4, 6, 6, 8 ],
-				"width": 104,
-				"height": 191
-			},
-			"slash3": {
-				"type": "mesh",
-				"uvs": [ 0.88014, 0.31719, 1, 0.67218, 0.7584, 1, 0, 0.91865, 0, 0.78469, 0.4345, 0.72567, 0.33461, 0.54312, 0.63427, 0.38715, 0.3779, 0.089, 0.54386, 0 ],
-				"triangles": [ 7, 9, 0, 8, 9, 7, 5, 6, 7, 3, 4, 5, 7, 1, 5, 1, 7, 0, 2, 5, 1, 3, 5, 2 ],
-				"vertices": [ 235.28, 131.47, 256.02, 48.76, 214.22, -27.62, 83.02, -8.67, 83.02, 22.54, 158.18, 36.29, 140.9, 78.83, 192.74, 115.17, 148.39, 184.64, 177.1, 205.38 ],
-				"hull": 10,
-				"edges": [ 4, 6, 16, 18, 0, 18, 0, 2, 2, 4, 14, 16, 12, 14, 10, 12, 6, 8, 8, 10 ],
-				"width": 173,
-				"height": 233
-			},
-			"slash4": {
-				"type": "mesh",
-				"path": "slash3",
-				"uvs": [ 0.69815, 0.14553, 0.88014, 0.31719, 0.93702, 0.48565, 1, 0.67218, 0.88265, 0.83142, 0.7584, 1, 0, 0.91865, 0, 0.85588, 0, 0.78469, 0.4345, 0.72567, 0.38484, 0.63491, 0.33461, 0.54312, 0.63427, 0.38715, 0.50856, 0.24096, 0.3779, 0.089, 0.54386, 0 ],
-				"triangles": [ 13, 14, 15, 13, 15, 0, 12, 13, 0, 12, 0, 1, 10, 11, 12, 9, 10, 12, 2, 12, 1, 4, 2, 3, 4, 12, 2, 9, 12, 4, 7, 8, 9, 6, 7, 9, 5, 9, 4, 6, 9, 5 ],
-				"vertices": [ -95.91, -154.7, -130.71, -117.63, -143.9, -79.42, -158.5, -37.12, -141.51, 1.55, -123.53, 42.5, 8.66, 35, 9.92, 20.45, 11.36, 3.94, -62.24, -16.25, -51.86, -36.55, -41.36, -57.07, -89.79, -97.72, -65.21, -129.73, -39.65, -163, -66.42, -186.12 ],
-				"hull": 16,
-				"edges": [ 10, 12, 28, 30, 22, 24, 16, 18, 24, 26, 26, 28, 2, 0, 0, 30, 18, 20, 20, 22, 2, 4, 4, 6, 6, 8, 8, 10, 12, 14, 14, 16 ],
-				"width": 173,
-				"height": 233
-			}
-		},
-		"stab": {
-			"stab": {
-				"type": "mesh",
-				"uvs": [ 0.39415, 1, 0, 0.48488, 0.39659, 0, 1, 0.49171 ],
-				"triangles": [ 3, 0, 1, 3, 1, 2 ],
-				"vertices": [ -4.52, -20.5, -69.16, 0.62, -4.12, 20.5, 94.84, 0.34 ],
-				"hull": 4,
-				"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
-				"width": 164,
-				"height": 41
 			}
 		},
 		"thigh_far": {
@@ -1096,16 +940,6 @@
 "animations": {
 	"attack1": {
 		"slots": {
-			"dashAttack": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"downSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
 			"eyes": {
 				"attachment": [
 					{ "time": 0, "name": "eyeSide2" }
@@ -1151,21 +985,6 @@
 			"mouth": {
 				"attachment": [
 					{ "time": 0, "name": "mouthSide" }
-				]
-			},
-			"shockwave": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"sideSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"stab": {
-				"attachment": [
-					{ "time": 0, "name": null }
 				]
 			},
 			"thumb_far": {
@@ -1565,16 +1384,6 @@
 	},
 	"attack2": {
 		"slots": {
-			"dashAttack": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"downSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
 			"eyes": {
 				"attachment": [
 					{ "time": 0, "name": "eyesFront2" },
@@ -1640,21 +1449,6 @@
 					{ "time": 0.5, "name": "mouthSide2" },
 					{ "time": 1.1667, "name": "mouthFront" },
 					{ "time": 1.3333, "name": "mouthFront" }
-				]
-			},
-			"shockwave": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"sideSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"stab": {
-				"attachment": [
-					{ "time": 0, "name": null }
 				]
 			},
 			"thumb_far": {
@@ -2395,16 +2189,6 @@
 	},
 	"attack4": {
 		"slots": {
-			"dashAttack": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"downSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
 			"eyes": {
 				"attachment": [
 					{ "time": 0, "name": "eyeSide2" },
@@ -2463,21 +2247,6 @@
 				"attachment": [
 					{ "time": 0, "name": "mouthSide" },
 					{ "time": 0.9333, "name": "mouthSide" }
-				]
-			},
-			"shockwave": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"sideSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"stab": {
-				"attachment": [
-					{ "time": 0, "name": null }
 				]
 			},
 			"thumb_far": {
@@ -3137,16 +2906,6 @@
 	},
 	"attack6": {
 		"slots": {
-			"dashAttack": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"downSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
 			"eyes": {
 				"attachment": [
 					{ "time": 0, "name": "eyeSide2" },
@@ -3203,21 +2962,6 @@
 				"attachment": [
 					{ "time": 0, "name": "mouthSide" },
 					{ "time": 0.2333, "name": "mouthSide" }
-				]
-			},
-			"shockwave": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"sideSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"stab": {
-				"attachment": [
-					{ "time": 0, "name": null }
 				]
 			},
 			"thumb_far": {
@@ -3799,16 +3543,6 @@
 	},
 	"attack7": {
 		"slots": {
-			"dashAttack": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"downSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
 			"eyes": {
 				"attachment": [
 					{ "time": 0, "name": "eyeSide2" },
@@ -3876,21 +3610,6 @@
 					{ "time": 0, "name": "mouthSide" },
 					{ "time": 0.3333, "name": "mouthSide" },
 					{ "time": 1.1, "name": "mouthSide" }
-				]
-			},
-			"shockwave": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"sideSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"stab": {
-				"attachment": [
-					{ "time": 0, "name": null }
 				]
 			},
 			"thumb_far": {
@@ -4574,16 +4293,6 @@
 	},
 	"attack8": {
 		"slots": {
-			"dashAttack": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"downSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
 			"eyes": {
 				"attachment": [
 					{ "time": 0, "name": "eyeSide2" },
@@ -4645,21 +4354,6 @@
 					{ "time": 0, "name": "mouthSide" },
 					{ "time": 0.1667, "name": "mouthSide" },
 					{ "time": 0.6333, "name": "mouthSide" }
-				]
-			},
-			"shockwave": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"sideSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"stab": {
-				"attachment": [
-					{ "time": 0, "name": null }
 				]
 			},
 			"thumb_far": {
@@ -5439,16 +5133,6 @@
 	},
 	"battle_cheer": {
 		"slots": {
-			"dashAttack": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"downSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
 			"eyes": {
 				"attachment": [
 					{ "time": 0, "name": "eyesFront" },
@@ -5529,21 +5213,6 @@
 					{ "time": 0.8333, "name": "mouthFront2" },
 					{ "time": 1.1667, "name": "mouthFront" },
 					{ "time": 1.3333, "name": "mouthFront" }
-				]
-			},
-			"shockwave": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"sideSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"stab": {
-				"attachment": [
-					{ "time": 0, "name": null }
 				]
 			},
 			"thumb_far": {
@@ -6268,16 +5937,6 @@
 	},
 	"battle_cheer2": {
 		"slots": {
-			"dashAttack": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"downSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
 			"eyes": {
 				"attachment": [
 					{ "time": 0, "name": "eyesFront" },
@@ -6338,21 +5997,6 @@
 					{ "time": 0.6, "name": "mouthFront2" },
 					{ "time": 0.8333, "name": "mouthFront" },
 					{ "time": 1.1667, "name": "mouthFront" }
-				]
-			},
-			"shockwave": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"sideSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"stab": {
-				"attachment": [
-					{ "time": 0, "name": null }
 				]
 			},
 			"thumb_far": {
@@ -6921,16 +6565,6 @@
 	},
 	"battle_dead_loop": {
 		"slots": {
-			"dashAttack": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"downSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
 			"eyes": {
 				"attachment": [
 					{ "time": 0, "name": "eyesFrontDead" }
@@ -6974,21 +6608,6 @@
 			"mouth": {
 				"attachment": [
 					{ "time": 0, "name": "mouthFront" }
-				]
-			},
-			"shockwave": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"sideSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"stab": {
-				"attachment": [
-					{ "time": 0, "name": null }
 				]
 			},
 			"thumb_far": {
@@ -7723,16 +7342,6 @@
 	},
 	"battle_die": {
 		"slots": {
-			"dashAttack": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"downSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
 			"eyes": {
 				"attachment": [
 					{ "time": 0, "name": "eyesFrontDead" },
@@ -7783,21 +7392,6 @@
 				"attachment": [
 					{ "time": 0, "name": "mouthFront" },
 					{ "time": 0.7, "name": "mouthFront" }
-				]
-			},
-			"shockwave": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"sideSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"stab": {
-				"attachment": [
-					{ "time": 0, "name": null }
 				]
 			},
 			"thumb_far": {
@@ -8387,16 +7981,6 @@
 	},
 	"battle_idle": {
 		"slots": {
-			"dashAttack": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"downSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
 			"eyes": {
 				"attachment": [
 					{ "time": 0, "name": "eyesFront2" },
@@ -8449,21 +8033,6 @@
 				"attachment": [
 					{ "time": 0, "name": "mouthFront" },
 					{ "time": 0.5, "name": "mouthFront" }
-				]
-			},
-			"shockwave": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"sideSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"stab": {
-				"attachment": [
-					{ "time": 0, "name": null }
 				]
 			},
 			"thumb_far": {
@@ -8972,16 +8541,6 @@
 	},
 	"battle_idle2": {
 		"slots": {
-			"dashAttack": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"downSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
 			"eyes": {
 				"attachment": [
 					{ "time": 0, "name": "eyesFront2" },
@@ -9030,21 +8589,6 @@
 				"attachment": [
 					{ "time": 0, "name": "mouthFront" },
 					{ "time": 2.4, "name": "mouthFront" }
-				]
-			},
-			"shockwave": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"sideSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"stab": {
-				"attachment": [
-					{ "time": 0, "name": null }
 				]
 			},
 			"thumb_far": {
@@ -9941,16 +9485,6 @@
 	},
 	"battle_lose": {
 		"slots": {
-			"dashAttack": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"downSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
 			"eyes": {
 				"attachment": [
 					{ "time": 0, "name": "eyesFrontDead" },
@@ -10003,21 +9537,6 @@
 				"attachment": [
 					{ "time": 0, "name": "mouthFront" },
 					{ "time": 0.3333, "name": "mouthFront2" }
-				]
-			},
-			"shockwave": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"sideSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"stab": {
-				"attachment": [
-					{ "time": 0, "name": null }
 				]
 			},
 			"thumb_far": {
@@ -10368,16 +9887,6 @@
 	},
 	"battle_ready": {
 		"slots": {
-			"dashAttack": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"downSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
 			"eyes": {
 				"attachment": [
 					{ "time": 0, "name": "eyesFront2" },
@@ -10438,21 +9947,6 @@
 					{ "time": 0.3333, "name": "mouthFront2" },
 					{ "time": 0.7667, "name": "mouthFront" },
 					{ "time": 0.9333, "name": "mouthFront" }
-				]
-			},
-			"shockwave": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"sideSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"stab": {
-				"attachment": [
-					{ "time": 0, "name": null }
 				]
 			},
 			"thumb_far": {
@@ -11103,18 +10597,6 @@
 	},
 	"battle_ready2": {
 		"slots": {
-			"dashAttack": {
-				"attachment": [
-					{ "time": 0, "name": null },
-					{ "time": 1.1667, "name": null }
-				]
-			},
-			"downSlash": {
-				"attachment": [
-					{ "time": 0, "name": null },
-					{ "time": 1.1667, "name": null }
-				]
-			},
 			"eyes": {
 				"attachment": [
 					{ "time": 0, "name": "eyesFront2" },
@@ -11177,24 +10659,6 @@
 					{ "time": 0.3333, "name": "mouthFront2" },
 					{ "time": 1, "name": "mouthFront" },
 					{ "time": 1.1667, "name": "mouthFront" }
-				]
-			},
-			"shockwave": {
-				"attachment": [
-					{ "time": 0, "name": null },
-					{ "time": 1.1667, "name": null }
-				]
-			},
-			"sideSlash": {
-				"attachment": [
-					{ "time": 0, "name": null },
-					{ "time": 1.1667, "name": null }
-				]
-			},
-			"stab": {
-				"attachment": [
-					{ "time": 0, "name": null },
-					{ "time": 1.1667, "name": null }
 				]
 			},
 			"thumb_far": {
@@ -15251,16 +14715,6 @@
 	},
 	"hurt": {
 		"slots": {
-			"dashAttack": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"downSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
 			"eyes": {
 				"attachment": [
 					{ "time": 0, "name": "eyesFrontDead" },
@@ -15313,21 +14767,6 @@
 					{ "time": 0.1667, "name": "mouthFront" },
 					{ "time": 0.3333, "name": "mouthFront2" },
 					{ "time": 0.5, "name": "mouthFront2" }
-				]
-			},
-			"shockwave": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"sideSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"stab": {
-				"attachment": [
-					{ "time": 0, "name": null }
 				]
 			},
 			"thumb_far": {
@@ -15898,16 +15337,6 @@
 	},
 	"run": {
 		"slots": {
-			"dashAttack": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"downSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
 			"eyes": {
 				"attachment": [
 					{ "time": 0, "name": "eyeSide2" },
@@ -15956,21 +15385,6 @@
 				"attachment": [
 					{ "time": 0, "name": "mouthSide" },
 					{ "time": 0.8, "name": "mouthSide" }
-				]
-			},
-			"shockwave": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"sideSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"stab": {
-				"attachment": [
-					{ "time": 0, "name": null }
 				]
 			},
 			"thumb_far": {
@@ -16438,21 +15852,6 @@
 	},
 	"special_attackfromdash": {
 		"slots": {
-			"_guide3": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"dashAttack": {
-				"attachment": [
-					{ "time": 0.1333, "name": "slash1" },
-					{ "time": 0.2, "name": "slash4" },
-					{ "time": 0.2667, "name": "slash3" },
-					{ "time": 0.3, "name": "slash2" },
-					{ "time": 0.3667, "name": "slash1" },
-					{ "time": 0.5, "name": null }
-				]
-			},
 			"eyes": {
 				"attachment": [
 					{ "time": 0, "name": "eyeSide" },
@@ -16498,12 +15897,6 @@
 				"attachment": [
 					{ "time": 0, "name": "mouthSide2" },
 					{ "time": 0.6667, "name": "mouthSide" }
-				]
-			},
-			"shockwave": {
-				"attachment": [
-					{ "time": 0.2333, "name": "shockwave" },
-					{ "time": 0.4333, "name": null }
 				]
 			},
 			"thumb_far": {
@@ -17008,11 +16401,6 @@
 					{ "time": 0, "x": 0, "y": 0 }
 				]
 			},
-			"dashAttack": {
-				"translate": [
-					{ "time": 0, "x": 0, "y": 0 }
-				]
-			},
 			"shadow": {
 				"translate": [
 					{ "time": 0, "x": -4.07, "y": 0, "curve": "stepped" },
@@ -17053,69 +16441,6 @@
 				]
 			}
 		},
-		"deform": {
-			"default": {
-				"dashAttack": {
-					"slash1": [
-						{
-							"time": 0.1333,
-							"vertices": [ 78.80041, 103.04405, 52.54388, 88.12643, -3.09297, 162.11725, -7.76707, 179.88597 ],
-							"curve": "stepped"
-						},
-						{
-							"time": 0.3667,
-							"vertices": [ -6.36002, 2.65002, 7.41998, -3.70999, -11.12997, -3.17999, -9.00998, -2.64999 ],
-							"curve": "stepped"
-						},
-						{
-							"time": 0.4333,
-							"vertices": [ 6.98392, 26.59406, 33.48392, 6.45407, 58.92394, 32.42404, 32.95393, 50.444 ]
-						}
-					],
-					"slash4": [
-						{
-							"time": 0.2,
-							"vertices": [ -209.038, 63.14206, -186.84995, 75.50995, -144.15787, 77.57797, -112.78, 85.33403, -17.74603, 65.48996, 36.10995, -10.64401, 15.54399, 20.4239, -14.75401, 89.74802, -58.17001, 131.85199, -99.72002, 101.38199, -139.51193, 116.36798, -177.30798, 128.34802, -188.91397, 87.17203, -198.858, 76.43796, -208.49799, 65.19202, -244.53604, 54.84604 ],
-							"curve": "stepped"
-						},
-						{
-							"time": 0.2333,
-							"vertices": [ -106.41651, 36.62318, -81.14037, 30.4958, -54.55622, 30.57593, -18.1745, 25.63068, 65.07658, -144.30632, -26.28055, -186.96501, -10.54498, -102.50754, 6.3604, -31.1144, 11.25993, 58.29463, -23.46579, 31.89853, -36.27956, 65.7795, -61.09252, 85.98415, -68.58802, 48.74588, -101.19817, 59.21126, -136.59679, 67.70285, -143.48714, 47.33556 ]
-						}
-					],
-					"slash3": [
-						{
-							"time": 0.2667,
-							"vertices": [ 14.78899, 15.43199, -89.37695, 52.72597, -103.93996, 101.31607, -42.43795, 7.07301, -0.64298, -91.94891, -18.00401, -23.14796, 43.08097, -57.22701, 19.28997, -9.00198, 81.66093, -30.22098, 85.51894, -7.07303 ]
-						}
-					],
-					"slash2": [
-						{
-							"time": 0.3,
-							"vertices": [ 7.31999, 55.52901, 2.94798, 3.69299, -20.66798, 13.43097, -37.72601, 60.79495, -5.43202, 53.64099, -28.09, 45.57996, -21.2, 29.6799 ]
-						}
-					]
-				},
-				"shockwave": {
-					"shockwave": [
-						{
-							"time": 0.2333,
-							"vertices": [ -7.67596, 2.02, 12.12, 1.61601, 7.272, -4.44398, -1.61603, -11.31201 ],
-							"curve": "stepped"
-						},
-						{
-							"time": 0.3,
-							"vertices": [ 23.43201, 1.616, 31.91595, 1.61601, 37.97592, -2.82797, 28.04596, 8.48396 ],
-							"curve": "stepped"
-						},
-						{
-							"time": 0.3667,
-							"vertices": [ 34.33997, 1.616, 60.19592, 1.61601, 67.87186, -5.65599, 79.64789, 39.22395 ]
-						}
-					]
-				}
-			}
-		},
 		"drawOrder": [
 			{ "time": 0 }
 		],
@@ -17125,16 +16450,6 @@
 	},
 	"special_dash": {
 		"slots": {
-			"dashAttack": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"downSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
 			"eyes": {
 				"attachment": [
 					{ "time": 0, "name": "eyeSide" },
@@ -17183,21 +16498,6 @@
 				"attachment": [
 					{ "time": 0, "name": "mouthSide2" },
 					{ "time": 0.4, "name": "mouthSide2" }
-				]
-			},
-			"shockwave": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"sideSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"stab": {
-				"attachment": [
-					{ "time": 0, "name": null }
 				]
 			},
 			"thumb_far": {
@@ -17642,16 +16942,6 @@
 	},
 	"special_intro": {
 		"slots": {
-			"dashAttack": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"downSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
 			"eyes": {
 				"attachment": [
 					{ "time": 0, "name": "eyesFront2" },
@@ -17717,21 +17007,6 @@
 					{ "time": 0.3333, "name": "mouthFront2" },
 					{ "time": 1.3667, "name": "mouthSide2" },
 					{ "time": 1.6, "name": "mouthSide2" }
-				]
-			},
-			"shockwave": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"sideSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"stab": {
-				"attachment": [
-					{ "time": 0, "name": null }
 				]
 			},
 			"thumb_far": {
@@ -18373,16 +17648,6 @@
 	},
 	"stunned": {
 		"slots": {
-			"dashAttack": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"downSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
 			"eyes": {
 				"attachment": [
 					{ "time": 0, "name": "eyesFrontDead" },
@@ -18440,21 +17705,6 @@
 					{ "time": 1, "name": "mouthFront2" },
 					{ "time": 1.1667, "name": "mouthFront" },
 					{ "time": 1.3333, "name": "mouthFront2" }
-				]
-			},
-			"shockwave": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"sideSlash": {
-				"attachment": [
-					{ "time": 0, "name": null }
-				]
-			},
-			"stab": {
-				"attachment": [
-					{ "time": 0, "name": null }
 				]
 			},
 			"thumb_far": {
