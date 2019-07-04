@@ -1,0 +1,230 @@
+
+BAT - prototype.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DrillBase 1
+  rotate: true
+  xy: 516, 953
+  size: 67, 125
+  orig: 67, 125
+  offset: 0, 0
+  index: -1
+DrillBase 2
+  rotate: true
+  xy: 643, 954
+  size: 66, 125
+  orig: 66, 125
+  offset: 0, 0
+  index: -1
+Eye 1
+  rotate: false
+  xy: 115, 262
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+Eye 2
+  rotate: false
+  xy: 248, 707
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+FWing
+  rotate: false
+  xy: 2, 490
+  size: 114, 140
+  orig: 114, 140
+  offset: 0, 0
+  index: -1
+FWingArm
+  rotate: false
+  xy: 130, 379
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+FWingPalm
+  rotate: true
+  xy: 770, 922
+  size: 98, 106
+  orig: 98, 106
+  offset: 0, 0
+  index: -1
+FxBLAM
+  rotate: false
+  xy: 369, 946
+  size: 145, 74
+  orig: 145, 74
+  offset: 0, 0
+  index: -1
+FxDespawnPit 1
+  rotate: false
+  xy: 2, 944
+  size: 365, 76
+  orig: 365, 76
+  offset: 0, 0
+  index: -1
+FxDespawnPit 2
+  rotate: true
+  xy: 163, 686
+  size: 33, 83
+  orig: 33, 83
+  offset: 0, 0
+  index: -1
+FxDespawnPit 3
+  rotate: false
+  xy: 132, 684
+  size: 29, 104
+  orig: 29, 104
+  offset: 0, 0
+  index: -1
+FxDespawnPit 4
+  rotate: false
+  xy: 115, 276
+  size: 25, 83
+  orig: 25, 83
+  offset: 0, 0
+  index: -1
+FxDespawnSkull 1
+  rotate: false
+  xy: 163, 721
+  size: 65, 80
+  orig: 65, 80
+  offset: 0, 0
+  index: -1
+FxDespawnSkull 2
+  rotate: false
+  xy: 230, 721
+  size: 65, 80
+  orig: 65, 80
+  offset: 0, 0
+  index: -1
+FxDespawnSkull 3
+  rotate: false
+  xy: 304, 775
+  size: 65, 80
+  orig: 65, 80
+  offset: 0, 0
+  index: -1
+FxDrillHit 1
+  rotate: true
+  xy: 975, 980
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+FxDrillHit 2
+  rotate: false
+  xy: 118, 497
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1
+FxDrillHit 3
+  rotate: false
+  xy: 130, 435
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+FxDrillSpin 1
+  rotate: true
+  xy: 297, 718
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+FxDrillSpin 2
+  rotate: false
+  xy: 975, 904
+  size: 46, 74
+  orig: 46, 74
+  offset: 0, 0
+  index: -1
+FxDrillSpin 3
+  rotate: false
+  xy: 118, 560
+  size: 42, 70
+  orig: 42, 70
+  offset: 0, 0
+  index: -1
+FxExplosion
+  rotate: false
+  xy: 2, 790
+  size: 157, 152
+  orig: 157, 152
+  offset: 0, 0
+  index: -1
+FxHit 1
+  rotate: false
+  xy: 2, 232
+  size: 111, 127
+  orig: 111, 127
+  offset: 0, 0
+  index: -1
+FxHit 2
+  rotate: false
+  xy: 2, 8
+  size: 104, 107
+  orig: 104, 107
+  offset: 0, 0
+  index: -1
+FxHit 3
+  rotate: false
+  xy: 878, 930
+  size: 95, 90
+  orig: 95, 90
+  offset: 0, 0
+  index: -1
+FxPuff 1
+  rotate: true
+  xy: 2, 117
+  size: 113, 103
+  orig: 113, 103
+  offset: 0, 0
+  index: -1
+FxPuff 2
+  rotate: false
+  xy: 161, 803
+  size: 141, 139
+  orig: 141, 139
+  offset: 0, 0
+  index: -1
+NWing
+  rotate: false
+  xy: 2, 632
+  size: 128, 156
+  orig: 128, 156
+  offset: 0, 0
+  index: -1
+NWingArm
+  rotate: true
+  xy: 304, 857
+  size: 85, 59
+  orig: 85, 59
+  offset: 0, 0
+  index: -1
+NWingPalm
+  rotate: false
+  xy: 2, 361
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+Top
+  rotate: true
+  xy: 183, 638
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+TopInterior
+  rotate: true
+  xy: 132, 632
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
