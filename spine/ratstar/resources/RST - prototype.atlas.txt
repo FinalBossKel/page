@@ -1,0 +1,181 @@
+
+RST - prototype.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BodySegment 1
+  rotate: false
+  xy: 176, 47
+  size: 144, 237
+  orig: 144, 237
+  offset: 0, 0
+  index: -1
+BodySegment 2
+  rotate: false
+  xy: 2, 18
+  size: 172, 266
+  orig: 172, 266
+  offset: 0, 0
+  index: -1
+BodySegment 3
+  rotate: true
+  xy: 285, 318
+  size: 138, 201
+  orig: 138, 201
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 285, 502
+  size: 61, 22
+  orig: 61, 22
+  offset: 0, 0
+  index: -1
+Fuse 1
+  rotate: false
+  xy: 541, 605
+  size: 299, 36
+  orig: 299, 36
+  offset: 0, 0
+  index: -1
+Fuse 2
+  rotate: false
+  xy: 533, 435
+  size: 186, 36
+  orig: 186, 36
+  offset: 0, 0
+  index: -1
+Fuse 3
+  rotate: true
+  xy: 656, 369
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+FxBLAM
+  rotate: false
+  xy: 733, 875
+  size: 289, 147
+  orig: 289, 147
+  offset: 0, 0
+  index: -1
+FxDespawnPit 1
+  rotate: false
+  xy: 2, 871
+  size: 729, 151
+  orig: 729, 151
+  offset: 0, 0
+  index: -1
+FxDespawnPit 2
+  rotate: true
+  xy: 488, 368
+  size: 65, 166
+  orig: 65, 166
+  offset: 0, 0
+  index: -1
+FxDespawnPit 3
+  rotate: false
+  xy: 959, 666
+  size: 57, 207
+  orig: 57, 207
+  offset: 0, 0
+  index: -1
+FxDespawnPit 4
+  rotate: true
+  xy: 721, 421
+  size: 50, 166
+  orig: 50, 166
+  offset: 0, 0
+  index: -1
+FxDespawnSkull 1
+  rotate: true
+  xy: 533, 473
+  size: 130, 160
+  orig: 130, 160
+  offset: 0, 0
+  index: -1
+FxDespawnSkull 2
+  rotate: true
+  xy: 695, 473
+  size: 130, 160
+  orig: 130, 160
+  offset: 0, 0
+  index: -1
+FxDespawnSkull 3
+  rotate: false
+  xy: 857, 498
+  size: 130, 160
+  orig: 130, 160
+  offset: 0, 0
+  index: -1
+FxExplosion
+  rotate: false
+  xy: 2, 565
+  size: 313, 304
+  orig: 313, 304
+  offset: 0, 0
+  index: -1
+FxFuseLight 1
+  rotate: false
+  xy: 504, 268
+  size: 113, 98
+  orig: 113, 98
+  offset: 0, 0
+  index: -1
+FxFuseLight 2
+  rotate: true
+  xy: 434, 2
+  size: 123, 105
+  orig: 123, 105
+  offset: 0, 0
+  index: -1
+FxFuseLight 3
+  rotate: false
+  xy: 322, 2
+  size: 110, 123
+  orig: 110, 123
+  offset: 0, 0
+  index: -1
+FxHit 1
+  rotate: false
+  xy: 317, 615
+  size: 222, 254
+  orig: 222, 254
+  offset: 0, 0
+  index: -1
+FxHit 2
+  rotate: false
+  xy: 749, 660
+  size: 208, 213
+  orig: 208, 213
+  offset: 0, 0
+  index: -1
+FxHit 3
+  rotate: true
+  xy: 322, 127
+  size: 189, 180
+  orig: 189, 180
+  offset: 0, 0
+  index: -1
+FxPuff 1
+  rotate: true
+  xy: 541, 643
+  size: 226, 206
+  orig: 226, 206
+  offset: 0, 0
+  index: -1
+FxPuff 2
+  rotate: false
+  xy: 2, 286
+  size: 281, 277
+  orig: 281, 277
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 317, 458
+  size: 214, 155
+  orig: 214, 155
+  offset: 0, 0
+  index: -1

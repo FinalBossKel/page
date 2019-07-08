@@ -1,0 +1,20 @@
+<html>
+<script src="spine-player.js">
+</script>
+<link rel="stylesheet" href="spine-player.css">
+
+
+
+<body>
+   <div id="player-container" style="width: 800px; height: 500px;"></div>
+</body>
+
+<script>
+   new spine.SpinePlayer("player-container", {
+         jsonUrl: "resources/RST - prototype.json",
+         atlasUrl: "resources/RST - prototype.atlas",
+         animation:"Idle Fuse1"
+   });
+ </script>
+
+</html>
