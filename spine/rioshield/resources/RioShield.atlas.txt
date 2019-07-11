@@ -1,0 +1,279 @@
+
+RioShield.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bolt
+  rotate: false
+  xy: 823, 1581
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+fArm11
+  rotate: false
+  xy: 937, 1828
+  size: 174, 216
+  orig: 174, 216
+  offset: 0, 0
+  index: -1
+fArm2
+  rotate: false
+  xy: 829, 1639
+  size: 100, 159
+  orig: 100, 159
+  offset: 0, 0
+  index: -1
+fCollar
+  rotate: false
+  xy: 216, 36
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+fEye1
+  rotate: false
+  xy: 758, 1263
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+fEye2
+  rotate: false
+  xy: 265, 701
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+fEyeDead
+  rotate: false
+  xy: 1450, 1890
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+fHand11
+  rotate: true
+  xy: 1497, 1922
+  size: 122, 142
+  orig: 122, 142
+  offset: 0, 0
+  index: -1
+fHand12
+  rotate: true
+  xy: 1641, 1922
+  size: 122, 142
+  orig: 122, 142
+  offset: 0, 0
+  index: -1
+foot
+  rotate: false
+  xy: 265, 716
+  size: 116, 108
+  orig: 116, 108
+  offset: 0, 0
+  index: -1
+hair0
+  rotate: true
+  xy: 300, 969
+  size: 212, 79
+  orig: 212, 79
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 2, 10
+  size: 212, 79
+  orig: 212, 79
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 1289, 1914
+  size: 206, 130
+  orig: 206, 130
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: true
+  xy: 683, 1427
+  size: 177, 138
+  orig: 177, 138
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 683, 1606
+  size: 144, 192
+  orig: 144, 192
+  offset: 0, 0
+  index: -1
+mouthBottom
+  rotate: false
+  xy: 1929, 1925
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+mouthClosed
+  rotate: false
+  xy: 288, 72
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+mouthDead
+  rotate: false
+  xy: 656, 1211
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+mouthTop
+  rotate: false
+  xy: 829, 1606
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+nArm11
+  rotate: false
+  xy: 1113, 1828
+  size: 174, 216
+  orig: 174, 216
+  offset: 0, 0
+  index: -1
+nArm2
+  rotate: true
+  xy: 1289, 1812
+  size: 100, 159
+  orig: 100, 159
+  offset: 0, 0
+  index: -1
+nCollar
+  rotate: false
+  xy: 656, 1228
+  size: 100, 53
+  orig: 100, 53
+  offset: 0, 0
+  index: -1
+nEye1
+  rotate: false
+  xy: 216, 16
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+nEye2
+  rotate: false
+  xy: 780, 1411
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+nEyeDead
+  rotate: false
+  xy: 937, 1804
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+nHand11
+  rotate: true
+  xy: 1785, 1922
+  size: 122, 142
+  orig: 122, 142
+  offset: 0, 0
+  index: -1
+nHand12
+  rotate: false
+  xy: 656, 1283
+  size: 122, 142
+  orig: 122, 142
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 381, 1158
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 300, 826
+  size: 141, 92
+  orig: 141, 92
+  offset: 0, 0
+  index: -1
+shield0
+  rotate: false
+  xy: 406, 1185
+  size: 248, 244
+  orig: 248, 244
+  offset: 0, 0
+  index: -1
+shield1
+  rotate: false
+  xy: 687, 1800
+  size: 248, 244
+  orig: 248, 244
+  offset: 0, 0
+  index: -1
+shield2
+  rotate: false
+  xy: 2, 435
+  size: 261, 389
+  orig: 261, 389
+  offset: 0, 0
+  index: -1
+shield3
+  rotate: false
+  xy: 406, 1431
+  size: 275, 451
+  orig: 275, 451
+  offset: 0, 0
+  index: -1
+sprite_Shadow
+  rotate: false
+  xy: 2, 1884
+  size: 683, 160
+  orig: 683, 160
+  offset: 0, 0
+  index: -1
+torsoBack1
+  rotate: false
+  xy: 2, 1183
+  size: 402, 339
+  orig: 402, 339
+  offset: 0, 0
+  index: -1
+torsoBack2
+  rotate: false
+  xy: 2, 91
+  size: 296, 342
+  orig: 296, 342
+  offset: 0, 0
+  index: -1
+torsoFront1
+  rotate: false
+  xy: 2, 1524
+  size: 402, 358
+  orig: 402, 358
+  offset: 0, 0
+  index: -1
+torsoFront2
+  rotate: false
+  xy: 2, 826
+  size: 296, 355
+  orig: 296, 355
+  offset: 0, 0
+  index: -1
+windup
+  rotate: false
+  xy: 1929, 1959
+  size: 117, 85
+  orig: 117, 85
+  offset: 0, 0
+  index: -1

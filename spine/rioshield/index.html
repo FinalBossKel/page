@@ -1,0 +1,20 @@
+<html>
+<script src="spine-player.js">
+</script>
+<link rel="stylesheet" href="spine-player.css">
+
+
+
+<body>
+   <div id="player-container" style="width: 800px; height: 500px;"></div>
+</body>
+
+<script>
+   new spine.SpinePlayer("player-container", {
+         jsonUrl: "resources/RioShield.json",
+         atlasUrl: "resources/RioShield.atlas.txt",
+         animation:"battle_idle"
+   });
+ </script>
+
+</html>
