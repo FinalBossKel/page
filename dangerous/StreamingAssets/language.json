@@ -1,0 +1,59 @@
+{
+  "_meta": {
+    "maxChars": {
+    "title":200
+    }
+  },
+  "en": {
+    "title":"The Numberlings in Positively Dangerous. A Space Adventure by The Legends of Learning",
+    "command1":"This is a disaster!",
+    "command2":"The computers are reporting imbalance in the ship.!",
+    "command3":"We're sitting ducks until all the problems are fixed!",
+    "command4":"Please help us captain. You're our only hope!",
+    "lesson1":"Positive and Negative Numbers. To fix the ship, we'll need to learn about positive and negative numbers. Positive and negative numbers can be used to describe quantities having opposite direction or values. Let's take a look at how we use these concepts in real life!",
+    "lesson2":"Positive numbers are greater than zero. Observe the number line. Here are just a few examples of positive changes in value: You add 3 items to your bag. You earn 3 dollars. It's 3 degrees warmer today compared to yesterday.",
+    "lesson3":"Negative numbers are less than zero. Here are just a few examples of negative changes in value: You remove 2 items from your bag. You lose 2 dollars. It's 2 degrees colder today compared to yesterday.",
+    "lesson4":"Zero has no value and is neither positive or negative. It's simply a measuring point for value. It's where we start counting from. There's less of something when we move to the left of zero on the number line and more of something when we move to the right.",
+    "lesson5":"Negative numbers have a minus sign in front of them. Examples: -5, -28, -150. Positive numbers don't. Examples: 5, 28, 150",
+    "lesson6":"As you go through the challenges, just keep in mind that negative means less and positive means more. It's that simple! Good luck, Captain!",
+    "passenger1":"This room is short 5 seated passengers. Which best represents this statement? 5 or -5?",
+    "passenger2":"'Short' means this room needs more passengers.",
+    "passenger3":"This room has 6 passengers too many. Which best represents this statement? 6 or -6?",
+    "passenger4":"'Too many' means this room has more passengers than the number required.",
+    "passenger5":"Drag and drop passengers between rooms until they're both OK.",
+    "passenger6":"The top room is now OK.",
+    "passenger7":"The bottom room is now OK.",
+    "cargo1":"This room needs to be 105 tons heavier. Which best represents this problem? 105 or -105?",
+    "cargo2":"Making something 'heavier' means adding more weight.",
+    "cargo3":"This room needs to be 85 tons lighter. Which best represents the problem? 85 or -85?",
+    "cargo4":"Making something 'lighter' means removing weight.",
+    "cargo5":"To increase weight, pick a box on the left panel and click inside a room.",
+    "cargo6":"To decrease weight, click a box inside a room to remove it.",
+    "cargo7":"The top room is now OK.",
+    "cargo8":"The bottom room is now OK.",
+    "engine1":"We need to fill and empty these fuel vats as needed until the engine stabilizes!",
+    "engine2":"The green vat needs to be 40 liters less than the white vat. Press the up or down buttons at the bottom of the vats to increase or decrease the liquid by 10 liters.",
+    "engine3":"Green is 40 liters less than white. That's -40.",
+    "engine4":"The white vat needs to be 60 liters less than the red vat.",
+    "engine5":"White is 60 liters less than Red. That's -60.",
+    "engine6":"The green vat needs to be 80 liters more than the red vat.",
+    "engine7":"Green is 80 liters more than red. That's positive 80 or simply written as 80.",
+    "end1":"You did it, Captain!",
+    "end2":"All that's left is to figure out where we are!",
+    "ship1":"Distance measured in lightyears. Which best describes how far away from the ship the red planet is? -4 or 4?",
+    "ship2":"Nope. We need to travel back to reach the red planet.",
+    "ship3":"Which best describes how far away the blue asteroid is? 5 or -5?",
+    "ship4":"Nope. We need to travel forward to reach the blue asteroid.",
+    "ship5":"Which best describes how far away the pink planet is? 7 or -7?",
+    "ship6":"Nope. We need to travel forward to reach the pink planet.",
+    "gameover":"See you on the next adventure, Captain!"    
+  },
+  "es": {
+  },
+  "zh": {
+  },
+  "jp": {
+  },
+  "ru": {
+  }
+}
