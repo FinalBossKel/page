@@ -1,0 +1,152 @@
+
+MKY - sprite.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: true
+  xy: 512, 774
+  size: 530, 672
+  orig: 530, 672
+  offset: 0, 0
+  index: -1
+Death
+  rotate: true
+  xy: 2, 254
+  size: 1050, 508
+  orig: 1050, 508
+  offset: 0, 0
+  index: -1
+Despawn 2
+  rotate: true
+  xy: 1223, 243
+  size: 1201, 724
+  orig: 1201, 724
+  offset: 0, 0
+  index: -1
+Despawn 4
+  rotate: false
+  xy: 2, 1306
+  size: 1219, 736
+  orig: 1219, 736
+  offset: 0, 0
+  index: -1
+Despawn 5
+  rotate: false
+  xy: 2, 2
+  size: 1193, 239
+  orig: 1193, 239
+  offset: 0, 0
+  index: -1
+Despawn 7
+  rotate: true
+  xy: 1197, 4
+  size: 237, 503
+  orig: 237, 503
+  offset: 0, 0
+  index: -1
+FxHit 1
+  rotate: true
+  xy: 1702, 19
+  size: 222, 254
+  orig: 222, 254
+  offset: 0, 0
+  index: -1
+FxThrow
+  rotate: true
+  xy: 1949, 853
+  size: 591, 78
+  orig: 591, 78
+  offset: 0, 0
+  index: -1
+Idle 2
+  rotate: false
+  xy: 512, 288
+  size: 651, 484
+  orig: 651, 484
+  offset: 0, 0
+  index: -1
+Throw
+  rotate: false
+  xy: 1223, 1446
+  size: 784, 596
+  orig: 784, 596
+  offset: 0, 0
+  index: -1
+
+MKY - sprite2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Despawn 1
+  rotate: false
+  xy: 2, 797
+  size: 1163, 515
+  orig: 1163, 515
+  offset: 0, 0
+  index: -1
+Despawn 3
+  rotate: false
+  xy: 2, 1314
+  size: 1201, 714
+  orig: 1201, 714
+  offset: 0, 0
+  index: -1
+Despawn 6
+  rotate: false
+  xy: 2, 534
+  size: 1191, 261
+  orig: 1191, 261
+  offset: 0, 0
+  index: -1
+Firebomb
+  rotate: true
+  xy: 661, 2
+  size: 530, 640
+  orig: 530, 640
+  offset: 0, 0
+  index: -1
+Flashbang
+  rotate: true
+  xy: 2, 2
+  size: 530, 657
+  orig: 530, 657
+  offset: 0, 0
+  index: -1
+FxHit 2
+  rotate: false
+  xy: 1195, 734
+  size: 208, 213
+  orig: 208, 213
+  offset: 0, 0
+  index: -1
+FxHit 3
+  rotate: false
+  xy: 1195, 552
+  size: 189, 180
+  orig: 189, 180
+  offset: 0, 0
+  index: -1
+FxThrowArc
+  rotate: false
+  xy: 1812, 1596
+  size: 204, 432
+  orig: 204, 432
+  offset: 0, 0
+  index: -1
+Hurt
+  rotate: false
+  xy: 1205, 1435
+  size: 605, 593
+  orig: 605, 593
+  offset: 0, 0
+  index: -1
+Idle 1
+  rotate: false
+  xy: 1205, 949
+  size: 629, 484
+  orig: 629, 484
+  offset: 0, 0
+  index: -1
