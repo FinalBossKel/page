@@ -1,0 +1,174 @@
+
+Dog2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 735
+  size: 600, 399
+  orig: 600, 399
+  offset: 0, 0
+  index: -1
+bodyInner
+  rotate: false
+  xy: 2, 1136
+  size: 600, 401
+  orig: 600, 401
+  offset: 0, 0
+  index: -1
+chestClosed
+  rotate: false
+  xy: 2, 449
+  size: 348, 284
+  orig: 348, 284
+  offset: 0, 0
+  index: -1
+chestOpen
+  rotate: false
+  xy: 857, 1269
+  size: 326, 268
+  orig: 326, 268
+  offset: 0, 0
+  index: -1
+fBrow
+  rotate: false
+  xy: 162, 333
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+fEar
+  rotate: false
+  xy: 604, 737
+  size: 94, 109
+  orig: 94, 109
+  offset: 0, 0
+  index: -1
+fEye1
+  rotate: false
+  xy: 1296, 1481
+  size: 19, 56
+  orig: 19, 56
+  offset: 0, 0
+  index: -1
+fEye2
+  rotate: false
+  xy: 223, 420
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+fEye3
+  rotate: false
+  xy: 1185, 1363
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+fFoot1
+  rotate: false
+  xy: 1075, 1193
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+fFoot2
+  rotate: true
+  xy: 857, 1139
+  size: 51, 79
+  orig: 51, 79
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 604, 848
+  size: 232, 283
+  orig: 232, 283
+  offset: 0, 0
+  index: -1
+handle
+  rotate: false
+  xy: 352, 622
+  size: 202, 111
+  orig: 202, 111
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 604, 1133
+  size: 251, 404
+  orig: 251, 404
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 162, 362
+  size: 59, 85
+  orig: 59, 85
+  offset: 0, 0
+  index: -1
+nBrow
+  rotate: false
+  xy: 2, 2
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+nEar
+  rotate: false
+  xy: 1185, 1410
+  size: 109, 127
+  orig: 109, 127
+  offset: 0, 0
+  index: -1
+nEye1
+  rotate: false
+  xy: 700, 791
+  size: 20, 55
+  orig: 20, 55
+  offset: 0, 0
+  index: -1
+nEye2
+  rotate: false
+  xy: 88, 92
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+nEye3
+  rotate: false
+  xy: 556, 689
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+nFoot1
+  rotate: false
+  xy: 352, 546
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+nFoot2
+  rotate: false
+  xy: 2, 32
+  size: 84, 86
+  orig: 84, 86
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 857, 1192
+  size: 75, 216
+  orig: 75, 216
+  offset: 0, 0
+  index: -1
+wrench
+  rotate: false
+  xy: 2, 120
+  size: 158, 327
+  orig: 158, 327
+  offset: 0, 0
+  index: -1

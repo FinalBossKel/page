@@ -1,0 +1,279 @@
+
+CometaDog.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bolt
+  rotate: false
+  xy: 1056, 1420
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+chain
+  rotate: false
+  xy: 924, 1417
+  size: 130, 155
+  orig: 130, 155
+  offset: 0, 0
+  index: -1
+fArm1
+  rotate: false
+  xy: 1618, 1821
+  size: 71, 99
+  orig: 71, 99
+  offset: 0, 0
+  index: -1
+fArm2
+  rotate: false
+  xy: 169, 561
+  size: 86, 128
+  orig: 86, 128
+  offset: 0, 0
+  index: -1
+fEye1
+  rotate: false
+  xy: 257, 635
+  size: 16, 54
+  orig: 16, 54
+  offset: 0, 0
+  index: -1
+fEye2
+  rotate: true
+  xy: 2020, 1996
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+fEyeDead
+  rotate: false
+  xy: 450, 865
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+fFoot
+  rotate: true
+  xy: 101, 454
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+fHand
+  rotate: false
+  xy: 1921, 1937
+  size: 97, 105
+  orig: 97, 105
+  offset: 0, 0
+  index: -1
+fHand2
+  rotate: false
+  xy: 810, 1169
+  size: 97, 105
+  orig: 97, 105
+  offset: 0, 0
+  index: -1
+fHand3
+  rotate: false
+  xy: 1519, 1780
+  size: 97, 140
+  orig: 97, 140
+  offset: 0, 0
+  index: -1
+fLeg
+  rotate: true
+  xy: 283, 765
+  size: 69, 156
+  orig: 69, 156
+  offset: 0, 0
+  index: -1
+headFront
+  rotate: false
+  xy: 2, 691
+  size: 279, 296
+  orig: 279, 296
+  offset: 0, 0
+  index: -1
+headSide
+  rotate: false
+  xy: 643, 1276
+  size: 279, 296
+  orig: 279, 296
+  offset: 0, 0
+  index: -1
+mouthFront
+  rotate: true
+  xy: 1284, 1701
+  size: 48, 65
+  orig: 48, 65
+  offset: 0, 0
+  index: -1
+mouthFront2
+  rotate: true
+  xy: 608, 940
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+mouthSideFront
+  rotate: true
+  xy: 1519, 1751
+  size: 27, 54
+  orig: 27, 54
+  offset: 0, 0
+  index: -1
+mouthSideFront2
+  rotate: false
+  xy: 1023, 1385
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+nArm1
+  rotate: false
+  xy: 2, 295
+  size: 71, 99
+  orig: 71, 99
+  offset: 0, 0
+  index: -1
+nArm2
+  rotate: false
+  xy: 643, 993
+  size: 86, 128
+  orig: 86, 128
+  offset: 0, 0
+  index: -1
+nEye1
+  rotate: true
+  xy: 169, 541
+  size: 18, 54
+  orig: 18, 54
+  offset: 0, 0
+  index: -1
+nEye2
+  rotate: false
+  xy: 924, 1281
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+nEyeDead
+  rotate: false
+  xy: 731, 1072
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+nFoot
+  rotate: false
+  xy: 283, 707
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+nHand
+  rotate: false
+  xy: 924, 1310
+  size: 97, 105
+  orig: 97, 105
+  offset: 0, 0
+  index: -1
+nHand2
+  rotate: false
+  xy: 1056, 1467
+  size: 97, 105
+  orig: 97, 105
+  offset: 0, 0
+  index: -1
+nHand3
+  rotate: false
+  xy: 2, 396
+  size: 97, 140
+  orig: 97, 140
+  offset: 0, 0
+  index: -1
+nLeg
+  rotate: true
+  xy: 450, 918
+  size: 69, 156
+  orig: 69, 156
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 810, 1124
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+salakot0
+  rotate: false
+  xy: 2, 1337
+  size: 639, 346
+  orig: 639, 346
+  offset: 0, 0
+  index: -1
+salakot1
+  rotate: false
+  xy: 643, 1696
+  size: 639, 346
+  orig: 639, 346
+  offset: 0, 0
+  index: -1
+salakot2
+  rotate: false
+  xy: 2, 989
+  size: 639, 346
+  orig: 639, 346
+  offset: 0, 0
+  index: -1
+salakot3
+  rotate: false
+  xy: 2, 1685
+  size: 639, 357
+  orig: 639, 357
+  offset: 0, 0
+  index: -1
+salakotBack0
+  rotate: false
+  xy: 643, 1574
+  size: 635, 120
+  orig: 635, 120
+  offset: 0, 0
+  index: -1
+salakotBack1
+  rotate: false
+  xy: 1284, 1922
+  size: 635, 120
+  orig: 635, 120
+  offset: 0, 0
+  index: -1
+torsoBack
+  rotate: false
+  xy: 2, 538
+  size: 165, 151
+  orig: 165, 151
+  offset: 0, 0
+  index: -1
+torsoFront
+  rotate: false
+  xy: 283, 836
+  size: 165, 151
+  orig: 165, 151
+  offset: 0, 0
+  index: -1
+torsoSide
+  rotate: false
+  xy: 643, 1123
+  size: 165, 151
+  orig: 165, 151
+  offset: 0, 0
+  index: -1
+windup
+  rotate: false
+  xy: 1284, 1751
+  size: 233, 169
+  orig: 233, 169
+  offset: 0, 0
+  index: -1

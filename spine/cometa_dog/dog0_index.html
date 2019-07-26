@@ -1,0 +1,20 @@
+<html>
+<script src="spine-player.js">
+</script>
+<link rel="stylesheet" href="spine-player.css">
+
+
+
+<body>
+   <div id="player-container" style="width: 800px; height: 500px;"></div>
+</body>
+
+<script>
+   new spine.SpinePlayer("player-container", {
+         jsonUrl: "dog0/Dog0.json",
+         atlasUrl: "dog0/Dog0.atlas.txt",
+         animation: "idle"
+   });
+ </script>
+
+</html>
