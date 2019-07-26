@@ -1,0 +1,376 @@
+
+Anino.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+collarFront
+  rotate: false
+  xy: 1219, 1491
+  size: 198, 145
+  orig: 198, 145
+  offset: 0, 0
+  index: -1
+earFront
+  rotate: false
+  xy: 1398, 241
+  size: 105, 159
+  orig: 105, 159
+  offset: 0, 0
+  index: -1
+earSide
+  rotate: true
+  xy: 1178, 960
+  size: 160, 159
+  orig: 160, 159
+  offset: 0, 0
+  index: -1
+fAnkle
+  rotate: true
+  xy: 1432, 1147
+  size: 137, 101
+  orig: 137, 101
+  offset: 0, 0
+  index: -1
+fArm1
+  rotate: false
+  xy: 902, 1597
+  size: 184, 449
+  orig: 184, 449
+  offset: 0, 0
+  index: -1
+fArm2
+  rotate: false
+  xy: 1365, 1687
+  size: 93, 359
+  orig: 93, 359
+  offset: 0, 0
+  index: -1
+fArmGuard
+  rotate: true
+  xy: 1311, 684
+  size: 220, 228
+  orig: 220, 228
+  offset: 0, 0
+  index: -1
+fElbow
+  rotate: true
+  xy: 1899, 1211
+  size: 151, 145
+  orig: 151, 145
+  offset: 0, 0
+  index: -1
+fFoot
+  rotate: true
+  xy: 1419, 1497
+  size: 188, 127
+  orig: 188, 127
+  offset: 0, 0
+  index: -1
+fHairBangs
+  rotate: true
+  xy: 1339, 906
+  size: 218, 201
+  orig: 218, 201
+  offset: 0, 0
+  index: -1
+fHand1
+  rotate: false
+  xy: 2, 10
+  size: 195, 263
+  orig: 195, 263
+  offset: 0, 0
+  index: -1
+fHand1Fingers
+  rotate: true
+  xy: 1914, 1612
+  size: 152, 127
+  orig: 152, 127
+  offset: 0, 0
+  index: -1
+fHand2
+  rotate: false
+  xy: 1744, 75
+  size: 185, 314
+  orig: 185, 314
+  offset: 0, 0
+  index: -1
+fHand3
+  rotate: false
+  xy: 199, 10
+  size: 195, 263
+  orig: 195, 263
+  offset: 0, 0
+  index: -1
+fHeel
+  rotate: true
+  xy: 1914, 1488
+  size: 122, 127
+  orig: 122, 127
+  offset: 0, 0
+  index: -1
+fKnee
+  rotate: true
+  xy: 1008, 1487
+  size: 108, 209
+  orig: 108, 209
+  offset: 0, 0
+  index: -1
+fLeg
+  rotate: false
+  xy: 660, 1596
+  size: 119, 450
+  orig: 119, 450
+  offset: 0, 0
+  index: -1
+fShoulder
+  rotate: false
+  xy: 1542, 728
+  size: 351, 335
+  orig: 351, 335
+  offset: 0, 0
+  index: -1
+fThigh
+  rotate: false
+  xy: 1178, 1122
+  size: 125, 363
+  orig: 125, 363
+  offset: 0, 0
+  index: -1
+faceFront
+  rotate: true
+  xy: 929, 21
+  size: 374, 467
+  orig: 374, 467
+  offset: 0, 0
+  index: -1
+faceSide
+  rotate: false
+  xy: 935, 474
+  size: 374, 467
+  orig: 374, 467
+  offset: 0, 0
+  index: -1
+hairBack
+  rotate: false
+  xy: 173, 930
+  size: 456, 544
+  orig: 456, 544
+  offset: 0, 0
+  index: -1
+hairTail
+  rotate: false
+  xy: 660, 1482
+  size: 346, 112
+  orig: 346, 112
+  offset: 0, 0
+  index: -1
+lTorsoFront
+  rotate: false
+  xy: 574, 397
+  size: 359, 531
+  orig: 359, 531
+  offset: 0, 0
+  index: -1
+lTorsoFrontDtl
+  rotate: true
+  xy: 1555, 1729
+  size: 317, 357
+  orig: 317, 357
+  offset: 0, 0
+  index: -1
+lTorsoSide
+  rotate: false
+  xy: 631, 943
+  size: 359, 531
+  orig: 359, 531
+  offset: 0, 0
+  index: -1
+lTorsoSideDtl
+  rotate: true
+  xy: 1555, 1420
+  size: 307, 357
+  orig: 307, 357
+  offset: 0, 0
+  index: -1
+maskFront
+  rotate: true
+  xy: 593, 2
+  size: 393, 334
+  orig: 393, 334
+  offset: 0, 0
+  index: -1
+maskSide
+  rotate: true
+  xy: 1088, 1638
+  size: 408, 275
+  orig: 408, 275
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 173, 872
+  size: 56, 13
+  orig: 56, 13
+  offset: 0, 0
+  index: -1
+nAnkle
+  rotate: false
+  xy: 1895, 955
+  size: 137, 101
+  orig: 137, 101
+  offset: 0, 0
+  index: -1
+nArm1
+  rotate: false
+  xy: 992, 1031
+  size: 184, 449
+  orig: 184, 449
+  offset: 0, 0
+  index: -1
+nArm2
+  rotate: false
+  xy: 1460, 1687
+  size: 93, 359
+  orig: 93, 359
+  offset: 0, 0
+  index: -1
+nArmGuard
+  rotate: false
+  xy: 1311, 402
+  size: 220, 280
+  orig: 220, 280
+  offset: 0, 0
+  index: -1
+nElbow
+  rotate: true
+  xy: 1899, 1058
+  size: 151, 145
+  orig: 151, 145
+  offset: 0, 0
+  index: -1
+nFoot
+  rotate: true
+  xy: 1914, 1766
+  size: 188, 127
+  orig: 188, 127
+  offset: 0, 0
+  index: -1
+nHairBangs
+  rotate: true
+  xy: 1542, 1065
+  size: 353, 355
+  orig: 353, 355
+  offset: 0, 0
+  index: -1
+nHand1
+  rotate: false
+  xy: 396, 10
+  size: 195, 263
+  orig: 195, 263
+  offset: 0, 0
+  index: -1
+nHand2
+  rotate: true
+  xy: 1398, 17
+  size: 222, 344
+  orig: 222, 344
+  offset: 0, 0
+  index: -1
+nHeel
+  rotate: true
+  xy: 1914, 1364
+  size: 122, 127
+  orig: 122, 127
+  offset: 0, 0
+  index: -1
+nKnee
+  rotate: false
+  xy: 1432, 1286
+  size: 108, 209
+  orig: 108, 209
+  offset: 0, 0
+  index: -1
+nLeg
+  rotate: false
+  xy: 781, 1596
+  size: 119, 450
+  orig: 119, 450
+  offset: 0, 0
+  index: -1
+nShoulder
+  rotate: false
+  xy: 1541, 391
+  size: 351, 335
+  orig: 351, 335
+  offset: 0, 0
+  index: -1
+nThigh
+  rotate: false
+  xy: 1305, 1126
+  size: 125, 363
+  orig: 125, 363
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1895, 747
+  size: 133, 206
+  orig: 133, 206
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 2, 850
+  size: 169, 1196
+  orig: 169, 1196
+  offset: 0, 0
+  index: -1
+tie
+  rotate: false
+  xy: 1895, 527
+  size: 125, 218
+  orig: 125, 218
+  offset: 0, 0
+  index: -1
+tieKnot
+  rotate: true
+  xy: 1914, 1956
+  size: 90, 130
+  orig: 90, 130
+  offset: 0, 0
+  index: -1
+uTorsoFront
+  rotate: true
+  xy: 2, 275
+  size: 573, 570
+  orig: 573, 570
+  offset: 0, 0
+  index: -1
+uTorsoSide
+  rotate: false
+  xy: 173, 1476
+  size: 485, 570
+  orig: 485, 570
+  offset: 0, 0
+  index: -1
+
+Anino2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+collarSide
+  rotate: false
+  xy: 2, 2
+  size: 216, 155
+  orig: 216, 155
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 2, 159
+  size: 320, 333
+  orig: 320, 333
+  offset: 0, 0
+  index: -1
