@@ -1,0 +1,277 @@
+
+SKU - sprite.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Approach 1
+  rotate: false
+  xy: 774, 446
+  size: 710, 781
+  orig: 710, 781
+  offset: 0, 0
+  index: -1
+Attack 1
+  rotate: false
+  xy: 2, 1169
+  size: 726, 873
+  orig: 726, 873
+  offset: 0, 0
+  index: -1
+Attack 2
+  rotate: false
+  xy: 1455, 1316
+  size: 589, 726
+  orig: 589, 726
+  offset: 0, 0
+  index: -1
+Death 3
+  rotate: false
+  xy: 827, 25
+  size: 775, 419
+  orig: 775, 419
+  offset: 0, 0
+  index: -1
+FxThrow
+  rotate: false
+  xy: 2, 9
+  size: 591, 78
+  orig: 591, 78
+  offset: 0, 0
+  index: -1
+Skill 4
+  rotate: true
+  xy: 1486, 538
+  size: 776, 537
+  orig: 776, 537
+  offset: 0, 0
+  index: -1
+Skill 5
+  rotate: true
+  xy: 2, 354
+  size: 813, 770
+  orig: 813, 770
+  offset: 0, 0
+  index: -1
+Skill 7
+  rotate: false
+  xy: 730, 1229
+  size: 723, 813
+  orig: 723, 813
+  offset: 0, 0
+  index: -1
+despawn 8
+  rotate: false
+  xy: 2, 89
+  size: 823, 263
+  orig: 823, 263
+  offset: 0, 0
+  index: -1
+despawn mark
+  rotate: true
+  xy: 1887, 292
+  size: 244, 128
+  orig: 244, 128
+  offset: 0, 0
+  index: -1
+despawn stamp
+  rotate: false
+  xy: 1604, 4
+  size: 281, 532
+  orig: 281, 532
+  offset: 0, 0
+  index: -1
+
+SKU - sprite2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Approach 2
+  rotate: false
+  xy: 612, 562
+  size: 658, 700
+  orig: 658, 700
+  offset: 0, 0
+  index: -1
+Death 1
+  rotate: false
+  xy: 720, 1338
+  size: 633, 688
+  orig: 633, 688
+  offset: 0, 0
+  index: -1
+Death 2
+  rotate: true
+  xy: 2, 487
+  size: 775, 608
+  orig: 775, 608
+  offset: 0, 0
+  index: -1
+FxHit 1
+  rotate: false
+  xy: 1806, 300
+  size: 222, 254
+  orig: 222, 254
+  offset: 0, 0
+  index: -1
+FxHit 2
+  rotate: true
+  xy: 1806, 90
+  size: 208, 213
+  orig: 208, 213
+  offset: 0, 0
+  index: -1
+FxThrowArc
+  rotate: false
+  xy: 1600, 145
+  size: 204, 432
+  orig: 204, 432
+  offset: 0, 0
+  index: -1
+Idle 2
+  rotate: true
+  xy: 1355, 1381
+  size: 645, 599
+  orig: 645, 599
+  offset: 0, 0
+  index: -1
+Return 1
+  rotate: true
+  xy: 800, 42
+  size: 518, 798
+  orig: 518, 798
+  offset: 0, 0
+  index: -1
+Return 2
+  rotate: false
+  xy: 1272, 579
+  size: 537, 757
+  orig: 537, 757
+  offset: 0, 0
+  index: -1
+Skill 1
+  rotate: true
+  xy: 2, 6
+  size: 479, 796
+  orig: 479, 796
+  offset: 0, 0
+  index: -1
+Skill 6
+  rotate: false
+  xy: 2, 1264
+  size: 716, 762
+  orig: 716, 762
+  offset: 0, 0
+  index: -1
+despawn 9
+  rotate: true
+  xy: 1811, 556
+  size: 823, 205
+  orig: 823, 205
+  offset: 0, 0
+  index: -1
+
+SKU - sprite3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack 3
+  rotate: false
+  xy: 2, 1380
+  size: 635, 599
+  orig: 635, 599
+  offset: 0, 0
+  index: -1
+FxHit 3
+  rotate: true
+  xy: 1306, 646
+  size: 189, 180
+  orig: 189, 180
+  offset: 0, 0
+  index: -1
+Hurt
+  rotate: true
+  xy: 639, 1479
+  size: 500, 647
+  orig: 500, 647
+  offset: 0, 0
+  index: -1
+Idle 1
+  rotate: false
+  xy: 2, 779
+  size: 565, 599
+  orig: 565, 599
+  offset: 0, 0
+  index: -1
+Skill 2
+  rotate: true
+  xy: 1288, 1587
+  size: 392, 612
+  orig: 392, 612
+  offset: 0, 0
+  index: -1
+Skill 3
+  rotate: false
+  xy: 2, 99
+  size: 423, 678
+  orig: 423, 678
+  offset: 0, 0
+  index: -1
+despawn 0
+  rotate: true
+  xy: 427, 2
+  size: 775, 177
+  orig: 775, 177
+  offset: 0, 0
+  index: -1
+despawn 1
+  rotate: false
+  xy: 639, 1300
+  size: 775, 177
+  orig: 775, 177
+  offset: 0, 0
+  index: -1
+despawn 2
+  rotate: true
+  xy: 777, 60
+  size: 775, 177
+  orig: 775, 177
+  offset: 0, 0
+  index: -1
+despawn 3
+  rotate: true
+  xy: 956, 60
+  size: 775, 177
+  orig: 775, 177
+  offset: 0, 0
+  index: -1
+despawn 4
+  rotate: true
+  xy: 1135, 60
+  size: 775, 169
+  orig: 775, 169
+  offset: 0, 0
+  index: -1
+despawn 5
+  rotate: false
+  xy: 569, 837
+  size: 821, 200
+  orig: 821, 200
+  offset: 0, 0
+  index: -1
+despawn 6
+  rotate: true
+  xy: 606, 43
+  size: 792, 169
+  orig: 792, 169
+  offset: 0, 0
+  index: -1
+despawn 7
+  rotate: false
+  xy: 569, 1039
+  size: 830, 259
+  orig: 830, 259
+  offset: 0, 0
+  index: -1
