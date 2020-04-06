@@ -5,221 +5,202 @@
     }
   },
   "en": {
-    "title_1" : "RECEIVING, STORAGE, AND ROTATION OF FOOD",
+    "title_1" : "FOOD PREPARATION AND HANDLING",
 
-    "intro_1" : "Hello! Is this your first time playing the game?",
-    
-    "intro_2" : "Thank goodness you're finally here! The kitchen is in trouble. We could really use your help in receiving, storing and rotating food!",
-    
-    "intro_3" : "Jump to a specific topic?",
-    
-    "intro_4" : "If you've played before and you're just here for a review.",
-    
-    "intro_5" : "Jump to topic: Receiving Checking Storing Labelling FIFO Temperatures Start from the beginning",
-    
-    "receiving_1" : "RECEIVING" ,
-    
-    "receiving_2" : "Receivers are very important.",
-    
-    "receiving_3" : "They receive, check, store and organize all the products we use daily.",
-    
-    "receiving_4" : "Our success starts here.",
-    
-    "receiving_5" : "Proper use of receiving and storing techniques will help us cook up stellar end products!",
-    
-    "receiving_6" : "Receiving areas should be: Well lit Clean Pest Free",
-    
-    "temps_1" : "TEMPERATURE ZONES & THERMOMETERS",
-    
-    "temps_2" : "Quality and safety through proper temperature control.",
-    
-    "temps_3" : "Temperature Zones",
-    
-    "temps_4" : "Keep these important numbers in mind.",
-    
-    "temps_5" : "Frozen food 0°F or lower",
-    
-    "temps_6" : "Cold food 38°F to 45°F Safe zone: 41°F or lower",
-    
-    "temps_7" : "Hot food 135°F or higher Safe zone: 140°F or higher",
-    
-    "temps_8" : "Danger Zone 42°F to 134°F Germs grow and multiply quickly so prepared food must travel through this zone quickly.",
-    
-    "temps_9" : "Choose the correct temperature for storing these foods",
-    
-    "temps_10" : "Tap me if you need help",
-    
-    "temps_11" : "Recommended Storage Temperatures",
-    
-    "temps_12" : "45°F or lower Live shellfish and eggs",
-    
-    "temps_13" : "6°F to 10°F Ice cream and frozen yoghurt",
-    
-    "temps_14" : "41°F or lower Fresh meat, poultry, fish and dairy",
-    
-    "temps_15" : "50°F to 70°F Canned and dry food",
-    
-    "temps_16" : "We made too many mistakes. Temperature management is very important. Try again.",
-    
-    "temps_17" : "All food can be contaminated but some types allow more pathogen growth. Here are some food that need time and temperature control for safety (TCS Foods) Crustacean Milk & dairy Poultry Meat Fish Custard Shellfish Eggs Ice Cream",
-    
-    "temps_18" : "Select only TCS foods",
-    
-    "temps_19" : "Thank you for your help! You should review how to calibrate your thermometer before you go.",
-    
-    "temps_20" : "Okay, let's do it.",
-    
-    "temps_21" : "I already know what I'm doing.",
-    
-    "temps_22" : "Proper Thermometer Calibration",
-    
-    "temps_23" : "For cold temperatures (Ice-point method)",
-    
-    "temps_24" : "Fill with crushed ice and clean water. Stir well.",
-    
-    "temps_25" : "Immerse thermometer at least 2 inches. Wait 15 to 30 seconds or until reading stabilizes.",
-    
-    "temps_26" : "If it doesn't settle at 32°F, use a small wrench to turn the calibration nut until it reads 32°F while still immersed in ice water.",
-    
-    "temps_27" : "For hot temperatures",
-    
-    "temps_28" : "Immerse thermometer at least 2 inches in boiling water. Wait until reading stays steady.",
-    
-    "temps_29" : "If it doesn't settle at 212°F, use a small wrench to turn the calibration nut until it reads 212°F while still immersed in boiling water.",
-    
-    "temps_30" : "Proper Thermometer Usage",
-    
-    "temps_31" : "Use the right thermometer for the job. Check with your manager if unsure.",
-    
-    "temps_32" : "Use a clean, sanitized and air-dried thermometer.",
-    
-    "temps_33" : "Use a pocket thermometer to check hot and cold foods when received.",
-    
-    "temps_34" : "Use a pocket thermometer on cold foods in walk-in refrigerators, coolers, or refrigerated prep stations.",
-    
-    "checking_1" : "You need to properly assess the quality of products before signing off on deliveries. Take some time to review the guidelines first.",
-    
-    "checking_2" : "Okay, let's do it.",
-    
-    "checking_3" : "I already know what I'm doing.",
-    
-    "checking_4" : "Receiving Products",
-    
-    "checking_5" : "Check the QUANTITIY.",
-    
-    "checking_6" : "If purchased by portion or unit: Count it!",
-    
-    "checking_7" : "If purchased by weight: Weigh it!",
-    
-    "checking_8" : "If purchased by case: Open it",
-    
-    "checking_9" : "Check the QUALITY.",
-    
-    "checking_10" : "For large orders, ask help from your team. Time is of the essence in keeping food safe!",
-    
-    "checking_11" : "FROZEN FOOD must still be frozen and must be put away quickly.",
-    
-    "checking_12" : "PERISHABLE SUPPLIES must be received at 41°F.",
-    
-    "checking_13" : "Canned and NON-PERISHABLE supplies must be undamaged.",
-    
-    "checking_14" : "ACCEPTING",
-    
-    "checking_15" : "Check TEMPERATURES with a THERMOMETER and record it on the invoice.",
-    
-    "checking_16" : "Check the EXPIRATION DATES",
-    
-    "checking_17" : "Packages should be CLEAN, SANITARY and SEALED",
-    
-    "checking_18" : "DO NOT DROP prepackaged food to prevent contamination of the outside.",
-    
-    "checking_19" : "STORE FOOD IMMEDIATELY AFTER INSPECTION.",
-    
-    "checking_20" : "This fish is thawed, smells bad and is swarming with insects. We can't accept this!",
-    
-    "checking_21" : "This one's still frozen. Its packaging's still intact, it's not infested by pests and it smells OK. This looks acceptable.",
-    
-    "checking_22" : "Check Food Quality",
-    
-    "checking_23" : "Drag the product to the storage room to accept it or to the trash bin to reject it.",
-    
-    "checking_24" : "You accepted [X] bad products and wasted [Y] good products. You accepted too many bad products. Good thing I was here to catch them but you need to try hard spotting them on your own. People's lives are at stake.",
-    
-    "checking_25" : "Try Again",
-    
-    "checking_26" : "Give up and Sign for Delivery",
-    
-    "checking_27" : "You threw away some perfectly good items. We should try our best to keep down wastage. This is part of your job as a receiver.",
-    
-    "checking_28" : "Try Again",
-    
-    "checking_29" : "Give up and Sign for Delivery",
-    
-    "checking_30" : "You accepted 0 bad products and wasted 0 good products. The success of our kitchen and our customers' health and safety depend on the quality of these products. Thank you so much for doing a great job!",
-    
-    "checking_31" : "Sign for Delivery",
-    
-    "checking_32" : "Remember: Once you've signed for a delivery, you're responsible for the quantity, quality and condition of the products!",
-    
-    "checking_33" : "We don't have to take unacceptable products. Get the driver's signature so their company can credit us for rejected products.",
-    
-    "checking_34" : "If in doubt, talk to your Food Service Director or Chef Manager!",
-    
-    "store_1" : "Everything that touches food must be clean!",
-    
-    "store_2" : "Products must be at least 6 inches off the floor. All of our stock should be kept in lockable storage nightly to prevent tampering.",
-    
-    "store_3" : "Products need to be stored properly to prevent cross contamination and ensure quality.",
-    
-    "store_4" : "Dry storage - for cans, boxed items like cereal, spices, flour, sugar, etc.",
-    
-    "store_5" : "Freezers and Refrigerators - for meats, fish, vegetable, dairy, etc.",
-    
-    "store_6" : "Chemicals and other kitchen supplies - non-food items like floor cleaners, soap, sterno, and the like.",
-    
-    "store_7" : "This is a bird's eye view of the kitchen! Help the staff find their way to the proper storage areas for the product they're carrying.",
-    
-    "store_8" : "Draw paths to help them safely navigate the busy kitchen. Help them avoid each other and the wrong rooms!",
-    
-    "store_9" : "Guide the kitchen staff to the correct rooms.",
-    
-    "store_10" : "Too many mistakes",
-    
-    "store_11" : "Products need to be stored in correct areas to prevent cross contamination and ensure quality.",
-    
-    "store_12" : "Let's try again.",
-    
-    "store_13" : "You're a life saver! Make sure to label the food ingredients that need labelling! Let's learn how it's done.",
-    
-    "store_14" : "Okay, let's do it.",
-    
-    "store_15" : "It's ok, let's skip this part.",
-    
-    "label_1" : "Labelling",
-    
-    "label_2" : "We must label all food being stored. Prepared or unprepared.",
-    
-    "label_3" : "Ingredients removed from their original packaging and placed in a new container must be labelled properly.",
-    
-    "label_4" : "Always label dietetic items in case they get mixed up with other foods.",
-    
-    "label_5" : "All items must be properly labelled and dated to ensure proper rotation.",
-    
-    "fifo_1" : "ROTATION",
-    
-    "fifo_2" : "FIFO - first in, first out",
-    
-    "fifo_3" : "Physically place and rotate food to ensure oldest items are used first.",
-    
-    "fifo_4" : "Check the expiration dates and evaluate the age of products.",
-    
-    "fifo_5" : "When in doubt about shelf life, talk to your supervisor.",
-    
-    "fifo_6" : "Drag the boxes around until they are in the correct order. Labels indicate expiration dates.",
-    
-    "fifo_7" : "When in doubt, speak to your Food Servie or Chef Manager for guidance. Don't take any chances when it comes to food safety.",
-    
-    "end_1" : "The kitchen is now in great shape thanks to you! Come back anytime if you need a refresher."
+"intro_1" : "Hello! Is this your first time playing this game?",
+
+"intro_2" : "Thank goodness you're finally here! The kitchen is in trouble. We could really use your help in preparing food for the residents!",
+
+"intro_3" : "Jump to a specific topic?",
+
+"intro_4" : "If you've played before and you're just here for a review.",
+
+"intro_5" : "Jump to topic: Thawing, Cleaning and Cooking Temperatures Allergies Start from the beginning",
+
+"kitchen_1" : "Lunch is about to start and we're shorthanded. Thank goodness you're here!",
+
+"kitchen_2" : "Let's make sure we follow proper food handling porcedures.",
+
+"kitchen_3" : "We can thaw food under refrigeration (41°F or lower). We thawed some steaks for several hours.",
+
+"kitchen_4" : "Tap the fridge to grab a steak. You can only grab one steak at a time.",
+
+"kitchen_5" : "Drag the thawed meat to the chef's station. We have two chefs so we can cook two things at a time.",
+
+"kitchen_6" : "We need to cool this before serving it. Drag it to this table. You can only cool two things at a time.",
+
+"kitchen_7" : "After food is heated, it needs to be cooled to 40°F as fast as possible to avoid bacteria growth. Here are some equipment used for cooling food.",
+
+"kitchen_8" : "Cooling Rack Roasts and heavier items. Solid product with sensitive items.",
+
+"kitchen_9" : "Ice bath + Ice wand Vegetables Hot liquids Liquid product with sensitive items",
+
+"kitchen_10" : "Hotel pans Hazardous food",
+
+"kitchen_11" : "Order up! Drag the steak to the window.",
+
+"kitchen_12" : "The next order is fish. Tap here to grab one. You can only grab one at a time.",
+
+"kitchen_13" : "Unlike the meat, this is still frozen and needs to thaw before we can cook it. Drag it to the sink to thaw it under running water.",
+
+"kitchen_14" : "Remember, it's not as simple in the real world. Safety first! In a real kitchen you should:",
+
+"kitchen_15" : "Use a food container to hold the thawing product and water in the sink.",
+
+"kitchen_16" : "Never thaw products directly in the sink and never thaw different products in the same container.",
+
+"kitchen_17" : "Never refreeze a product that has been thawed but not cooked.",
+
+"kitchen_18" : "Drag the fish to the chef to start cooking. Remember to cool it on the table after!",
+
+"kitchen_19" : "The fish is ready to be served.",
+
+"kitchen_20" : "Salad is up next. Tap here to grab some lettuce.",
+
+"kitchen_21" : "Thoroughly wash all produce to remove germs and wash away insecticides. Drag the lettuce to the sink to wash it. You can wash or thaw two things at a time.",
+
+"kitchen_22" : "Drag the washed lettuce to the chef so he can prepare the salad.",
+
+"kitchen_23" : "Unlike the steak and fish, the salad doesn't need to be cooled and is ready to be served.",
+
+"kitchen_24" : "Get ready! The customers are here and lunch is about to start.", 
+
+"kitchen_25" : "Pay attention to the orders on the right side of the screen.",
+
+"kitchen_26" : "Try not to make too many mistakes.",
+
+"kitchen_27" : "Too Many Mistakes",
+
+"kitchen_28" : "We can't skip steps when it comes to food safety. Please try again.",
+
+"kitchen_29" : "Try Again",
+
+"kitchen_30" : "Success!",
+
+"kitchen_31" : "That's all of it. Thank you for your help!",
+
+"kitchen_32" : "Next",
+
+"kitchen_33" : "Thaw in a microwave only if you can proceed immediately to cooking.",
+
+"kitchen_34" : "Never thaw products at room temperature for extended periods of time! Bacteria grows rapidly at room temperature.",
+
+"kitchen_35" : "Never reheat previously cooked foods more than once and never mix leftovers with fresh food!",
+
+"kitchen_36" : "If the product was stored unlabelled or it's already too old, throw it away!",
+
+"kitchen_37" : "When in doubt, throw it out! We don't take chances when it comes to food safety.",
+
+"temps_1" : "TEMPERATURE ZONES & THERMOMETERS",
+
+"temps_2" : "Quality and safety through proper temperature control.",
+
+"temps_3" : "Safe Temperature Zones",
+
+"temps_4" : "Food should stay within these temperatures to ensure quality and safety.",
+
+"temps_5" : "Frozen food 0°F or lower",
+
+"temps_6" : "Cold food 38°F to 45°F Safe zone: 41°F or lower",
+
+"temps_7" : "Hot food 135°F or higher Safe zone: 140°F or higher",
+
+"temps_8" : "Danger Zone 42°F to 134°F Germs grow and multiply quickly so prepared food must travel through this zone quickly.",
+
+"temps_9" : "Choose the SAFE MINIMUM COOKING TEMPERATURE for each food type.",
+
+"temps_10" : "Tap me if you need help",
+
+"temps_11" : "Safe Minimum Cooking Temperatures",
+
+"temps_12" : "Tap food to view temperatures",
+
+"temps_13" : "Ground Meat and Meat Mixtures Beef, pork, veal, lamb 160°F",
+
+"temps_14" : "Ground Meat and Meat Mixtures Turkey and Chicken 165°F",
+
+"temps_15" : "Fresh Meat - Steaks, Roasts, Chops Beef, veal and lamb 145°F Allow to rest for 3 mins",
+
+"temps_16" : "Poultry All poultry (breasts, whole bird, legs, thighs, wings, ground, giblets, stuffing) 165°F",
+
+"temps_17" : "Pork and ham Fresh pork, fresh ham 145°F Allow to rest for 3 mins",
+
+"temps_18" : "Pork and ham Precooked ham (reheat) 165°F If packaged in USDA-inspected plants, reheat to 140°F",
+
+"temps_19" : "Eggs Cook until yolk and white are firm",
+
+"temps_20" : "Egg dishes 160°F",
+
+"temps_21" : "Leftovers and casseroles 165°F",
+
+"temps_22" : "Seafood Fish with fins 145°F or cook until flesh is opaque and separates easily with a fork",
+
+"temps_23" : "Seafood Shrimp, lobster, crab, scallops Cook until flesh is opaque and pearly/white",
+
+"temps_24" : "Seafood Clams, oysters, mussels Cook until shells open during cooking",
+
+"temps_25" : "We made too many mistakes. We must cook using the correct temperatures to ensure safety.",
+
+"temps_26" : "Try again.",
+
+"temps_27" : "All food can be contaminated but some types allow more pathogen growth. Here are some food that need time and temperature control for safety (TCS Foods) Crustacean Milk & dairy Poultry Meat Fish Custard Shellfish Eggs Ice Cream",
+
+"temps_28" : "Select only TCS foods",
+
+"temps_29" : "Thank you for your help! You should review how to calibrate your thermometer before you go.",
+
+"temps_30" : "Okay, let's do it.",
+
+"temps_31" : "I already know what I'm doing.",
+
+"temps_32" : "Proper Thermometer Calibration",
+
+"temps_33" : "For cold temperatures (Ice-point method)",
+
+"temps_34" : "Fill with crushed ice and clean water. Stir well",
+
+"temps_35" : "Immerse thermometer at least 2 inches. Wait 15 to 30 seconds or until reading stabilizes.",
+
+"temps_36" : "If it doesn't settle at 32°F, use a small wrench to turn the calibration nut until it reads 32°F while still immersed in ice water.",
+
+"temps_37" : "For hot temperatures",
+
+"temps_38" : "Immerse thermometer at least 2 inches in boiling water. Wait until reading stays steady.",
+
+"temps_39" : "If it doesn't settle at 212°F, use a small wrench to turn the calibration nut until it reads 212°F while still immersed in boiling water.",
+
+"temps_40" : "Proper Thermometer Usage",
+
+"temps_41" : "Use the right thermometer for the job. Check with your manager if unsure.",
+
+"temps_42" : "Use a clean, sanitized and air-dried thermometer.",
+
+"temps_43" : "Check food temperatures every 4 hours and constantly stir and tend to all hot and cold food items to maintain quality and assure that proper temperature zones are being met.",
+
+"allergy_1" : "Food Allergies",
+
+"allergy_2" : "Some people are so sensitive to certain ingredients that even exposure to them through cross contamination can cause severe illness or even death.",
+
+"allergy_3" : "This nice lady is allergic to strawberries.", 
+
+"allergy_4" : "Her allergies are indicated on top of her head.",
+
+"allergy_5" : "These are food prepared for the residents.",
+
+"allergy_6" : "Ingredients are shown at the bottom of the plates.",
+
+"allergy_7" : "Drag the meal suitable for this lady.",
+
+"allergy_8" : "It's lunch time and the hungry residents are filing in. Get ready!",
+
+"allergy_9" : "We need to be careful with people's allergies. Please try not to make mistakes.",
+
+"allergy_10" : "Never guess the ingredients of a dish. Keep recipe books up to date so information is easy to look up!",
+
+"allergy_11" : "When in doubt, involve your manager or suggest a different dish. Never guess!",
+
+"end_1" : "The kitchen is now in great shape thanks to you! Come back anytime if you need a refresher."
+
   },
   "es": {
   },
