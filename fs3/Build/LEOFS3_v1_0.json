@@ -1,0 +1,16 @@
+{
+"companyName": "LeonardoMolar",
+"productName": "L02_ReceiveStoreRotate",
+"productVersion": "0.1",
+"dataUrl": "LEOFS3_v1_0.data.unityweb",
+"wasmCodeUrl": "LEOFS3_v1_0.wasm.code.unityweb",
+"wasmFrameworkUrl": "LEOFS3_v1_0.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.21f1"
+}
