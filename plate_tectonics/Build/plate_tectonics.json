@@ -1,0 +1,13 @@
+{
+"companyName": "kontrabida",
+"productName": "Super SB Plate Tectonics",
+"dataUrl": "plate_tectonics.data.unityweb",
+"asmCodeUrl": "plate_tectonics.asm.code.unityweb",
+"asmMemoryUrl": "plate_tectonics.asm.memory.unityweb",
+"asmFrameworkUrl": "plate_tectonics.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080"
+}
