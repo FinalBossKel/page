@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "NextGen",
+"productVersion": "0.1",
+"dataUrl": "Leo_WaterDamage.data.unityweb",
+"wasmCodeUrl": "Leo_WaterDamage.wasm.code.unityweb",
+"wasmFrameworkUrl": "Leo_WaterDamage.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
