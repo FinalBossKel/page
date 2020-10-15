@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
+"companyName": "LegendsOfLearning",
 "productName": "NextGen",
-"productVersion": "0.1",
+"productVersion": "1",
 "dataUrl": "Leo_WaterDamage.data.unityweb",
 "wasmCodeUrl": "Leo_WaterDamage.wasm.code.unityweb",
 "wasmFrameworkUrl": "Leo_WaterDamage.wasm.framework.unityweb",
