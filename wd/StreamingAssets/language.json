@@ -5,7 +5,7 @@
     }
   },
   "en": {
-    "title":"Next Gen : The Water Damage Experts",
+    "title":"Next Insurance : The Water Damage Experts",
     "info0": "Tap on crew members to hear what they have to say.",
     "info1": "You're now free to explore the rest of the house.",
     "intro1": "Boss! Am I glad you're here!",
@@ -191,7 +191,8 @@
     "inspector_perfect_3":"We're privileged to have someone like you on the team.",
     "inspector_game_over":"Game Over",
     "inspector_try_again":"Try Again",
-    "inspector_in_progress":"Inspection in progress"
+    "inspector_in_progress":"Inspection in progress",
+    "task_secure_building":"Securing Building Openings: Building envelope deficiencies like poorly waterproofed building openings and exterior walls can cause major water damage."
   },
 
   "es": {
