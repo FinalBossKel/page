@@ -5,6 +5,7 @@
 "dataUrl": "Solar2.data.unityweb",
 "wasmCodeUrl": "Solar2.wasm.code.unityweb",
 "wasmFrameworkUrl": "Solar2.wasm.framework.unityweb",
+"wasmSymbolsUrl": "Solar2.wasm.symbols.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
