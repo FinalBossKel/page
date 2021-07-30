@@ -7,6 +7,26 @@
     "reply":"Reply",
     "customer_mr_green":"Mr. Green",
     "customer_mrs_green":"Mrs. Green",
+    "customer_mr_brown":"Mr. Brown",
+    "customer_mrs_brown":"Mrs. Brown",
+    "customer_mr_red":"Mr. Red",
+    "customer_mrs_red":"Mrs. Red",
+    
+    
+    "xs_1_c_1":"",
+    "xs_1_c_2":"",
+    "xs_1_c_3":"",
+    "xs_1_c_4":"",
+    "xs_1_c_5":"",
+    "xs_1_c_6":"",
+    "xs_1_c_7":"",
+    "xs_1_p_1":"",
+    "xs_1_p_2":"",
+    "xs_1_p_3":"",
+    "xs_1_p_3_a":"",
+    "xs_1_p_3_b":"",
+    
+    
     "xs_7_c_1":"What if there's a <wave>catastrophic</wave> issue and our panels get damaged?",
     "xs_7_c_2":"But what if we're really unlucky?",
     "xs_7_c_3":"That doesn't sound comforting.",
