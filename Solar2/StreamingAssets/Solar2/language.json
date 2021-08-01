@@ -1,0 +1,70 @@
+{
+  "_meta": {
+    "maxChars": {
+    }
+  },
+  "en": {
+    "reply":"Reply",
+    "customer_mr_green":"Mr. Green",
+    "customer_mrs_green":"Mrs. Green",
+    "customer_mr_brown":"Mr. Brown",
+    "customer_mrs_brown":"Mrs. Brown",
+    "customer_mr_red":"Mr. Red",
+    "customer_mrs_red":"Mrs. Red",
+    
+    
+    "xs_1_c_1":"",
+    "xs_1_c_2":"",
+    "xs_1_c_3":"",
+    "xs_1_c_4":"",
+    "xs_1_c_5":"",
+    "xs_1_c_6":"",
+    "xs_1_c_7":"",
+    "xs_1_p_1":"",
+    "xs_1_p_2":"",
+    "xs_1_p_3":"",
+    "xs_1_p_3_a":"",
+    "xs_1_p_3_b":"",
+    
+    
+    "xs_7_c_1":"What if there's a <wave>catastrophic</wave> issue and our panels get damaged?",
+    "xs_7_c_2":"But what if we're really unlucky?",
+    "xs_7_c_3":"That doesn't sound comforting.",
+    "xs_7_c_4":"I don't think we're capable of preventing catastrophic events.",
+    "xs_7_c_5":"That sounds <bounce>fantastic</bounce>. That gives us some peace of mind.",
+    "xs_7_p_1":"It's one of the risks you'll just have to live with.",
+    "xs_7_p_2":"It's your responsibility to make sure that doesn't happen.",
+    "xs_7_p_3":"Solar panels are built to withstand the elements.",
+    "xs_7_p_3_a":"Solar panels are built to withstand the elements. Serious damage can be rare.",
+    "xs_7_p_3_b":"You can have the confidence to know that your panels have a <b>manufacturer's warranty</b> of up to 10 years.",
+    "xs_7_p_3_c":"Separately, your <b>home insurance company</b> can help you ensure that your solar panels are covered by your insurance policy.",
+
+    "ss_10_c_1":"Why should we go with your company?\nWhy can’t we just hire our local handyman?",
+    "ss_10_c_2":"If you want this sale, you’ll need to give us better reasons.",
+    "ss_10_c_3":"It doesn’t look that difficult. We know a guy who can probably figure it out.",
+    "ss_10_c_4_a":"I see, that makes sense.",
+    "ss_10_c_4_b":"What other benefits do we get if we go with your company? What about warranties?",
+    "ss_10_c_5":"So after you’ve made this sale we're on our own, huh?",
+    "ss_10_c_6":"It’s good that you’re confident in your work but we prefer knowing we have coverage in case something happens.",
+    "ss_10_c_7":"We like the sound of that!",
+    "ss_10_p_1":"This is much different from a typical home improvement project and we have years of expertise.",
+    "ss_10_p_1_a":"Solar panel installation is much different from your typical home improvement project and we have over 15 years of expertise.",
+    "ss_10_p_1_b":"Moreover, installing solar requires proper licensing. Installers must obtain the requisite state licensing.",
+    "ss_10_p_2":"We’re your only option. You have no choice.",
+    "ss_10_p_3":"I doubt your handyman knows anything about solar.",
+    "ss_10_p_4":"This job is way beyond your handyman’s capabilities.",
+    "ss_10_p_5":"With our superior workmanship, you don’t need to worry about warranties.",
+    "ss_10_p_6":"Our company has you covered. Customer care is what we focus on!",
+    "ss_10_p_6_a":"Our company has you covered. Customer care is what we focus on! We’ll provide you with a five year workmanship warranty on our installation",
+    "ss_10_p_6_b":"But most importantly, here at <i>Solar Experts</i>, we want to make this project about you and your family and your energy independence.",
+    "ss_10_p_7":"The parts we’ll use come with warranties, you can take it up with the manufacturers if something goes wrong."
+  },
+  "es": {
+  },
+  "zh": {
+  },
+  "jp": {
+  },
+  "ru": {
+  }
+}
